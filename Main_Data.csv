@@ -1,0 +1,801 @@
+name,User_Id,Movie_Id,rating,genre,year,released,score(IMDB),score( Rotten Tomatoes),score,votes,director,star,country,company,runtime
+Mad Max: Fury Road,1,1408,R,Action,2015,"May 15, 2015 (United States)",7.5,7.7,8.1,912000,George Miller,Tom Hardy,Australia,Warner Bros.,120
+Avengers: Age of Ultron,1,31,PG-13,Action,2015,"May 1, 2015 (United States)",7.1,6.6,7.3,777000,Joss Whedon,Robert Downey Jr.,United States,Marvel Studios,141
+Crimson Peak,1,1029,R,Drama,2015,"October 16, 2015 (United States)",6.5,5.8,6.5,136000,Guillermo del Toro,Mia Wasikowska,Canada,Double Dare You (DDY),119
+Furious 7,1,1061,PG-13,Action,2015,"April 3, 2015 (United States)",7.1,6.7,7.1,370000,James Wan,Vin Diesel,United States,Universal Pictures,137
+The Hateful Eight,1,1129,R,Crime,2015,"December 30, 2015 (United States)",4.5,6.7,7.8,539000,Quentin Tarantino,Samuel L. Jackson,United States,Visiona Romantica,168
+Ant-Man,1,1172,PG-13,Action,2015,"July 17, 2015 (United States)",6.5,5.9,7.3,595000,Peyton Reed,Paul Rudd,United States,Gary Sanchez Productions,117
+Fifty Shades of Grey,1,1263,R,Drama,2015,"February 13, 2015 (United States)",5.3,5,4.1,304000,Sam Taylor-Johnson,Dakota Johnson,United States,Focus Features,125
+Sicario,1,1293,R,Action,2015,"October 2, 2015 (United States)",8,6.9,7.6,386000,Denis Villeneuve,Emily Blunt,United States,Lionsgate,121
+The Witch,1,1339,R,Drama,2015,"February 19, 2016 (United States)",6.8,6,6.9,218000,Robert Eggers,Anya Taylor-Joy,Canada,Parts and Labor,92
+The Big Short,1,1343,R,Biography,2015,"December 23, 2015 (United States)",8,7.5,7.8,381000,Adam McKay,Christian Bale,United States,Paramount Pictures,130
+Jurassic World,1,1371,PG-13,Action,2015,"June 12, 2015 (United States)",6.5,6.9,7,593000,Colin Trevorrow,Chris Pratt,United States,Universal Pictures,124
+The Revenant,1,1405,R,Action,2015,"January 8, 2016 (United States)",7.5,7.9,8,729000,Alejandro G. Iñárritu,Leonardo DiCaprio,United States,New Regency Productions,156
+The Martian,1,1953,PG-13,Adventure,2015,"October 2, 2015 (United States)",7,7.9,8,783000,Ridley Scott,Matt Damon,United Kingdom,Twentieth Century Fox,144
+Room,1,2105,R,Drama,2015,"January 22, 2016 (United States)",7,7.8,8.1,386000,Lenny Abrahamson,Brie Larson,Canada,Element Pictures,118
+Inside Out,1,2150,PG,Animation,2015,"June 19, 2015 (United States)",7.6,7.7,8.1,641000,Pete Docter,Amy Poehler,United States,Pixar Animation Studios,95
+Spotlight,1,2193,R,Biography,2015,"November 20, 2015 (United States)",7.5,7.6,8.1,435000,Tom McCarthy,Mark Ruffalo,United States,Participant,129
+American Ultra,1,2294,R,Action,2015,"August 21, 2015 (United States)",6.4,5.8,6.1,87000,Nima Nourizadeh,Jesse Eisenberg,United States,PalmStar Media,96
+The Man from U.N.C.L.E.,1,2455,PG-13,Action,2015,"August 14, 2015 (United States)",6.5,7.3,7.3,286000,Guy Ritchie,Henry Cavill,United States,Warner Bros.,116
+Terminator Genisys,1,2968,PG-13,Action,2015,"July 1, 2015 (United States)",7.5,7.9,6.3,264000,Alan Taylor,Arnold Schwarzenegger,United States,Paramount Pictures,126
+Cinderella,2,3671,PG,Drama,2015,"March 13, 2015 (United States)",7.1,7.4,6.9,165000,Kenneth Branagh,Lily James,United States,Allison Shearmur Productions,105
+Star Wars: Episode VII - The Force Awakens,2,10,PG-13,Action,2015,"December 18, 2015 (United States)",7.9,6.9,7.8,876000,J.J. Abrams,Daisy Ridley,United States,Lucasfilm,138
+The Lobster,2,17,R,Comedy,2015,"October 16, 2015 (United Kingdom)",6.5,7.3,7.2,230000,Yorgos Lanthimos,Colin Farrell,Ireland,Film4,119
+Spectre,2,39,PG-13,Action,2015,"November 6, 2015 (United States)",6.6,7.4,6.8,393000,Sam Mendes,Daniel Craig,United Kingdom,B24,148
+High-Rise,2,47,R,Drama,2015,"April 28, 2016 (United States)",7,8,5.6,40000,Ben Wheatley,Tom Hiddleston,United Kingdom,HanWay Films,119
+Legend,2,50,R,Biography,2015,"November 20, 2015 (United States)",6.6,7.6,6.9,164000,Brian Helgeland,Tom Hardy,United Kingdom,Cross Creek Pictures,132
+Chappie,2,52,R,Action,2015,"March 6, 2015 (United States)",5.3,7.6,6.8,235000,Neill Blomkamp,Sharlto Copley,South Africa,Columbia Pictures,120
+Knock Knock,2,62,R,Drama,2015,"October 9, 2015 (United States)",7.3,6.9,4.9,87000,Eli Roth,Keanu Reeves,United States,Black Bear Pictures,99
+In the Heart of the Sea,2,110,PG-13,Action,2015,"December 11, 2015 (United States)",8.4,5.5,6.9,128000,Ron Howard,Chris Hemsworth,United States,Warner Bros.,122
+The Bronze,2,144,R,Comedy,2015,"March 18, 2016 (United States)",6.6,7.9,6.1,11000,Bryan Buckley,Melissa Rauch,United States,Duplass Brothers Productions,100
+The Intern,2,150,PG-13,Comedy,2015,"September 25, 2015 (United States)",7.6,5.8,7.1,231000,Nancy Meyers,Robert De Niro,United States,Waverly Films,121
+The Hunger Games: Mockingjay - Part 2,2,153,PG-13,Action,2015,"November 20, 2015 (United States)",6.7,6.6,6.6,297000,Francis Lawrence,Jennifer Lawrence,United States,Lionsgate,137
+Everest,2,161,PG-13,Action,2015,"September 25, 2015 (United States)",7.2,7.7,7.1,205000,Baltasar Kormákur,Jason Clarke,United Kingdom,Working Title Films,121
+Blackhat,2,165,R,Action,2015,"January 16, 2015 (United States)",6.7,7.8,5.4,56000,Michael Mann,Chris Hemsworth,United States,Forward Pass,133
+Spy,2,168,R,Action,2015,"June 5, 2015 (United States)",7.2,8.4,7,234000,Paul Feig,Melissa McCarthy,United States,Twentieth Century Fox,120
+Fantastic Four,2,185,PG-13,Action,2015,"August 7, 2015 (United States)",6.3,7.6,4.2,156000,Josh Trank,Miles Teller,United States,Twentieth Century Fox,100
+Mission: Impossible - Rogue Nation,2,186,PG-13,Action,2015,"July 31, 2015 (United States)",6.1,6.3,7.4,350000,Christopher McQuarrie,Tom Cruise,United States,Paramount Pictures,131
+The Visit,2,208,PG-13,Horror,2015,"September 11, 2015 (United States)",6.6,8.1,6.2,119000,M. Night Shyamalan,Olivia DeJonge,United States,Blinding Edge Pictures,94
+Vacation,2,222,R,Adventure,2015,"July 29, 2015 (United States)",6.6,7.4,6.1,103000,John Francis Daley,Ed Helms,United States,BenderSpink,99
+Creed,2,223,PG-13,Drama,2015,"November 25, 2015 (United States)",6.1,6.4,7.6,254000,Ryan Coogler,Michael B. Jordan,United States,Metro-Goldwyn-Mayer (MGM),133
+The Age of Adaline,2,225,PG-13,Drama,2015,"April 24, 2015 (United States)",7.5,7.5,7.2,160000,Lee Toland Krieger,Blake Lively,United States,Lakeshore Entertainment,112
+Black Mass,2,235,R,Biography,2015,"September 18, 2015 (United States)",6.3,8,6.9,171000,Scott Cooper,Johnny Depp,United States,Cross Creek Pictures,123
+Focus,2,248,R,Comedy,2015,"February 27, 2015 (United States)",7,6.1,6.6,226000,Glenn Ficarra,Will Smith,United States,Kramer & Sigman Films,105
+Home,2,253,PG,Animation,2015,"March 27, 2015 (United States)",6.6,6.6,6.6,95000,Tim Johnson,Jim Parsons,United States,DreamWorks Animation,94
+Jupiter Ascending,2,261,PG-13,Action,2015,"February 6, 2015 (United States)",6.3,6.5,5.3,182000,Lana Wachowski,Channing Tatum,United States,Warner Bros.,127
+I Saw the Light,2,265,R,Biography,2015,"April 1, 2016 (United States)",6.1,7.3,5.8,6700,Marc Abraham,Tom Hiddleston,United States,BRON Studios,123
+Minions,2,266,PG,Animation,2015,"July 10, 2015 (United States)",6.1,6.6,6.4,218000,Kyle Balda,Sandra Bullock,United States,Illumination Entertainment,91
+Pitch Perfect 2,2,272,PG-13,Comedy,2015,"May 15, 2015 (United States)",6.3,6.6,6.4,146000,Elizabeth Banks,Anna Kendrick,United States,Brownstone Productions (II),115
+San Andreas,2,273,PG-13,Action,2015,"May 29, 2015 (United States)",7.3,7.1,6.1,219000,Brad Peyton,Dwayne Johnson,United States,New Line Cinema,114
+Trainwreck,2,292,R,Comedy,2015,"July 17, 2015 (United States)",7.1,6.7,6.2,132000,Judd Apatow,Amy Schumer,United States,Universal Pictures,125
+Tomorrowland,2,296,PG,Action,2015,"May 22, 2015 (United States)",6.1,8.1,6.4,175000,Brad Bird,George Clooney,United States,Walt Disney Pictures,130
+Bridge of Spies,2,300,PG-13,Drama,2015,"October 16, 2015 (United States)",6.9,7,7.6,295000,Steven Spielberg,Tom Hanks,United States,Dreamworks Pictures,142
+The Danish Girl,2,314,R,Biography,2015,"January 22, 2016 (United States)",7.4,6.8,7.1,170000,Tom Hooper,Eddie Redmayne,United Kingdom,Working Title Films,119
+The Divergent Series: Insurgent,2,317,PG-13,Action,2015,"March 20, 2015 (United States)",5.5,7.5,6.2,223000,Robert Schwentke,Shailene Woodley,United States,Summit Entertainment,119
+Straight Outta Compton,2,319,R,Biography,2015,"August 14, 2015 (United States)",6.9,6.7,7.8,185000,F. Gary Gray,O'Shea Jackson Jr.,United States,Universal Pictures,147
+Carol,2,339,R,Drama,2015,"January 15, 2016 (United States)",7.5,7.7,7.2,120000,Todd Haynes,Cate Blanchett,United Kingdom,The Weinstein Company,118
+No Escape,2,349,R,Action,2015,"August 26, 2015 (United States)",7.6,6.5,6.8,81000,John Erick Dowdle,Lake Bell,United States,Bold Films,103
+The Boy Next Door,2,350,R,Thriller,2015,"January 23, 2015 (United States)",6.9,6.7,4.7,40000,Rob Cohen,Jennifer Lopez,United States,Universal Pictures,91
+Southpaw,2,356,R,Action,2015,"July 24, 2015 (United States)",6.2,7.4,7.4,223000,Antoine Fuqua,Jake Gyllenhaal,Hong Kong,Escape Artists,124
+The Dressmaker,2,357,R,Comedy,2015,"October 29, 2015 (Australia)",5.2,7,7.1,56000,Jocelyn Moorhouse,Kate Winslet,Australia,Screen Australia,119
+Maze Runner: The Scorch Trials,2,364,PG-13,Action,2015,"September 18, 2015 (United States)",6.5,7,6.3,230000,Wes Ball,Dylan O'Brien,United States,Gotham Group,131
+Lost and Love,2,367,R,Drama,2015,"March 20, 2015 (China)",5.8,4.6,6.4,620,Sanyuan Peng,Andy Lau,China,Chongqing Film Group,108
+The Last Witch Hunter,2,370,PG-13,Action,2015,"October 23, 2015 (United States)",6.5,6.6,6,98000,Breck Eisner,Vin Diesel,United States,Summit Entertainment,106
+Green Room,2,371,R,Horror,2015,"May 13, 2016 (United States)",6.6,5.2,7,112000,Jeremy Saulnier,Anton Yelchin,United States,Broad Green Pictures,95
+Burnt,2,372,R,Comedy,2015,"October 30, 2015 (United States)",7.9,7.4,6.6,110000,John Wells,Bradley Cooper,United States,3 Arts Entertainment,101
+The Good Dinosaur,2,377,PG,Animation,2015,"November 25, 2015 (United States)",7.4,6.3,6.7,106000,Peter Sohn,Jeffrey Wright,United States,Pixar Animation Studios,93
+Far from the Madding Crowd,2,382,PG-13,Drama,2015,"May 22, 2015 (United States)",7,6,7.1,47000,Thomas Vinterberg,Carey Mulligan,United Kingdom,Fox Searchlight Pictures,119
+The Invitation,2,405,Not Rated,Drama,2015,"April 8, 2016 (United States)",7.3,7.4,6.6,100000,Karyn Kusama,Logan Marshall-Green,United States,Gamechanger Films,100
+The Gift,2,410,R,Drama,2015,"August 7, 2015 (United States)",6,7.2,7,145000,Joel Edgerton,Jason Bateman,United States,Blumhouse Productions,108
+Point Break,2,454,PG-13,Action,2015,"December 25, 2015 (United States)",5.5,6.5,5.3,60000,Ericson Core,Edgar Ramírez,China,Alcon Entertainment,114
+Get Hard,2,457,R,Comedy,2015,"March 27, 2015 (United States)",6.1,5.6,6,127000,Etan Cohen,Will Ferrell,United States,Gary Sanchez Productions,100
+Hitman: Agent 47,2,468,R,Action,2015,"August 21, 2015 (United States)",3.2,5.8,5.7,87000,Aleksander Bach,Rupert Friend,United States,Twentieth Century Fox,96
+Entourage,2,474,R,Comedy,2015,"June 3, 2015 (United States)",7,6.2,6.6,77000,Doug Ellin,Adrian Grenier,United States,Warner Bros.,104
+Steve Jobs,2,480,R,Biography,2015,"October 23, 2015 (United States)",6.8,6.8,7.2,160000,Danny Boyle,Michael Fassbender,United Kingdom,Universal Pictures,122
+Scouts Guide to the Zombie Apocalypse,2,485,R,Action,2015,"October 30, 2015 (United States)",6.1,7.6,6.3,47000,Christopher Landon,Tye Sheridan,United States,Paramount Pictures,93
+Hardcore Henry,2,497,R,Action,2015,"April 8, 2016 (United States)",5.3,6.6,6.7,90000,Ilya Naishuller,Sharlto Copley,Russia,Bazelevs Production,96
+Joy,2,500,PG-13,Biography,2015,"December 25, 2015 (United States)",6.9,7.2,6.6,131000,David O. Russell,Jennifer Lawrence,United States,Fox 2000 Pictures,124
+Masterminds,2,508,PG-13,Biography,2015,"September 30, 2016 (United States)",5.6,7.6,5.8,52000,Jared Hess,Zach Galifianakis,United States,Broadway Video,95
+Brooklyn,2,509,PG-13,Drama,2015,"November 25, 2015 (United States)",3.8,7.5,7.5,135000,John Crowley,Saoirse Ronan,United Kingdom,Wildgaze Films,117
+Youth,2,515,R,Comedy,2015,"December 4, 2015 (United States)",5.7,7,7.3,74000,Paolo Sorrentino,Michael Caine,Italy,Indigo Film,124
+Self/less,2,527,PG-13,Action,2015,"July 10, 2015 (United States)",7.6,6.3,6.5,93000,Tarsem Singh,Ryan Reynolds,United States,Focus Features,117
+Ted 2,2,537,R,Comedy,2015,"June 26, 2015 (United States)",5.2,6.5,6.3,191000,Seth MacFarlane,Mark Wahlberg,United States,Universal Pictures,115
+Pan,2,539,PG,Adventure,2015,"October 9, 2015 (United States)",6.7,7.2,5.7,62000,Joe Wright,Levi Miller,United States,Warner Bros.,111
+Pixels,2,550,PG-13,Action,2015,"July 24, 2015 (United States)",6.9,7.4,5.5,135000,Chris Columbus,Adam Sandler,United States,Columbia Pictures,105
+Demolition,2,551,R,Comedy,2015,"April 8, 2016 (United States)",6,5.3,7,93000,Jean-Marc Vallée,Jake Gyllenhaal,United States,Black Label Media,101
+Macbeth,2,552,R,Drama,2015,"December 11, 2015 (United States)",6.7,5.3,6.6,54000,Justin Kurzel,Michael Fassbender,United Kingdom,See-Saw Films,113
+Daddy's Home,2,585,PG-13,Comedy,2015,"December 25, 2015 (United States)",6.8,6.7,6.2,112000,Sean Anders,Will Ferrell,United States,Paramount Pictures,96
+Run All Night,2,586,R,Action,2015,"March 13, 2015 (United States)",4.2,5.2,6.6,105000,Jaume Collet-Serra,Liam Neeson,United States,Warner Bros.,114
+Mr. Right,2,587,R,Action,2015,"April 8, 2016 (United States)",4,5.2,6.4,52000,Paco Cabezas,Anna Kendrick,United States,Amasia Entertainment,95
+Magic Mike XXL,2,588,R,Comedy,2015,"July 1, 2015 (United States)",8.2,5.4,5.6,53000,Gregory Jacobs,Channing Tatum,United States,Warner Bros.,115
+The DUFF,2,589,PG-13,Comedy,2015,"February 20, 2015 (United States)",7.6,6,6.5,87000,Ari Sandel,Mae Whitman,United States,CBS Films,101
+Trumbo,2,590,R,Biography,2015,"November 27, 2015 (United States)",5.6,6.7,7.5,78000,Jay Roach,Bryan Cranston,United States,Bleecker Street Films,124
+Hotel Transylvania 2,2,592,PG,Animation,2015,"September 25, 2015 (United States)",7,7.6,6.7,113000,Genndy Tartakovsky,Adam Sandler,United States,Columbia Pictures,89
+Knight of Cups,2,593,R,Drama,2015,"March 4, 2016 (United States)",6.1,6.3,5.7,26000,Terrence Malick,Christian Bale,United States,Dogwood Films,118
+The Stanford Prison Experiment,2,616,R,Biography,2015,"July 17, 2015 (United States)",7.2,7.1,6.9,40000,Kyle Patrick Alvarez,Ezra Miller,United States,Coup d'Etat Films,122
+The Longest Ride,2,661,PG-13,Drama,2015,"April 10, 2015 (United States)",4.7,7.3,7.1,79000,George Tillman Jr.,Scott Eastwood,United States,Fox 2000 Pictures,123
+Victor Frankenstein,3,720,PG-13,Drama,2015,"November 25, 2015 (United States)",7.3,7.2,6,54000,Paul McGuigan,Daniel Radcliffe,United Kingdom,Davis Entertainment,110
+Insidious: Chapter 3,3,60,PG-13,Horror,2015,"June 5, 2015 (United States)",6.2,7.5,6.1,97000,Leigh Whannell,Dermot Mulroney,Canada,Gramercy Pictures (I),97
+Goosebumps,3,110,PG,Adventure,2015,"October 16, 2015 (United States)",5.6,6.5,6.3,83000,Rob Letterman,Jack Black,United States,Sony Pictures Animation,103
+Aloha,3,247,PG-13,Comedy,2015,"May 29, 2015 (United States)",6.6,6.7,5.4,64000,Cameron Crowe,Bradley Cooper,United States,Columbia Pictures,105
+Baahubali: The Beginning,3,267,Not Rated,Action,2015,"July 9, 2015 (United States)",5.7,7,8,107000,S.S. Rajamouli,Prabhas,India,Arka Mediaworks,159
+A Bigger Splash,3,296,R,Drama,2015,"May 13, 2016 (United States)",5.9,7.9,6.4,28000,Luca Guadagnino,Tilda Swinton,Italy,Frenesy Film Company,125
+The Wedding Ringer,3,318,R,Comedy,2015,"January 16, 2015 (United States)",6.9,7.2,6.6,72000,Jeremy Garelick,Kevin Hart,United States,LStar Capital,101
+Sisters,3,355,R,Comedy,2015,"December 18, 2015 (United States)",7.1,6.2,6,64000,Jason Moore,Amy Poehler,United States,Little Stranger,118
+Secret in Their Eyes,3,356,PG-13,Crime,2015,"November 20, 2015 (United States)",6.4,6.5,6.3,46000,Billy Ray,Chiwetel Ejiofor,United States,IM Global,111
+Irrational Man,3,377,R,Comedy,2015,"August 7, 2015 (United States)",6.9,7.5,6.6,60000,Woody Allen,Joaquin Phoenix,United States,Gravier Productions,95
+Wild Card,3,527,R,Action,2015,"January 14, 2015 (Belgium)",6.2,7.4,5.6,53000,Simon West,Jason Statham,United States,Lionsgate,92
+Paper Towns,3,588,PG-13,Adventure,2015,"July 24, 2015 (United States)",5.8,7.2,6.2,98000,Jake Schreier,Nat Wolff,United States,Fox 2000 Pictures,109
+The Lady in the Van,3,592,PG-13,Biography,2015,"February 26, 2016 (United States)",6.8,6.6,6.7,27000,Nicholas Hytner,Maggie Smith,United Kingdom,BBC Films,104
+The SpongeBob Movie: Sponge Out of Water,3,593,PG,Animation,2015,"February 6, 2015 (United States)",6.7,7.3,6,51000,Paul Tibbitt,Tom Kenny,United States,Paramount Animation,92
+Child 44,3,595,R,Crime,2015,"April 17, 2015 (United Kingdom)",6.7,8,6.5,68000,Daniel Espinosa,Tom Hardy,Czech Republic,Summit Entertainment,137
+The Wave,3,736,R,Action,2015,"August 28, 2015 (Norway)",7.1,6.3,6.7,35000,Roar Uthaug,Kristoffer Joner,Norway,Fantefilm,105
+A Man Called Ove,3,778,PG-13,Comedy,2015,"September 30, 2016 (United States)",8,4.8,7.7,50000,Hannes Holm,Rolf Lassgård,Sweden,Tre Vänner Produktion AB,116
+Beasts of No Nation,3,866,TV-MA,Drama,2015,"October 16, 2015 (United States)",6.4,7.1,7.7,76000,Cary Joji Fukunaga,Abraham Attah,United States,Red Crown Productions,137
+Me and Earl and the Dying Girl,3,1197,PG-13,Comedy,2015,"July 1, 2015 (United States)",6.2,6.1,7.7,126000,Alfonso Gomez-Rejon,Thomas Mann,United States,Fox Searchlight Pictures,105
+Sleeping with Other People,3,1210,R,Comedy,2015,"August 12, 2015 (Belgium)",6.2,6.5,6.5,42000,Leslye Headland,Jason Sudeikis,United States,Gloria Sanchez Productions,101
+Concussion,3,1235,PG-13,Biography,2015,"December 25, 2015 (United States)",6.5,6.1,7.1,89000,Peter Landesman,Will Smith,United Kingdom,LStar Capital,123
+The Diary of a Teenage Girl,3,1271,R,Comedy,2015,"August 28, 2015 (United States)",7,7.3,6.9,30000,Marielle Heller,Bel Powley,United States,Caviar,102
+Mustang,3,1378,PG-13,Drama,2015,"June 17, 2015 (France)",6.1,8.4,7.6,37000,Deniz Gamze Ergüven,Günes Sensoy,Turkey,CG Cinéma,97
+The Walk,3,1580,PG,Action,2015,"October 9, 2015 (United States)",6,5.3,7.3,123000,Robert Zemeckis,Joseph Gordon-Levitt,United States,Sony Pictures Entertainment (SPE),123
+Tangerine,3,1721,R,Comedy,2015,"July 10, 2015 (United States)",6,6.3,7.1,28000,Sean Baker,Kitana Kiki Rodriguez,United States,Duplass Brothers Productions,88
+A Walk in the Woods,3,1884,R,Adventure,2015,"September 2, 2015 (United States)",5.6,7.1,6.4,26000,Ken Kwapis,Robert Redford,United States,Route One Entertainment,104
+Sinister 2,3,2028,R,Horror,2015,"August 21, 2015 (United States)",5.7,6.6,5.3,50000,Ciarán Foy,James Ransone,United States,Entertainment One,97
+Summertime,3,2318,Not Rated,Drama,2015,"August 19, 2015 (Belgium)",5.4,7.4,6.7,4500,Catherine Corsini,Cécile de France,France,Chaz Productions,105
+Anomalisa,3,2513,R,Animation,2015,"March 11, 2016 (United Kingdom)",7,5.8,7.3,68000,Duke Johnson,David Thewlis,United Kingdom,Paramount Animation,90
+The Blackcoat's Daughter,3,2694,R,Horror,2015,"February 16, 2017 (United States)",5.6,5.8,5.9,20000,Oz Perkins,Emma Roberts,Canada,Paris Film,93
+Mississippi Grind,3,2702,R,Comedy,2015,"August 13, 2015 (United States)",6.6,7,6.4,22000,Anna Boden,Ben Mendelsohn,United States,Sycamore Pictures,108
+Drishyam,3,2716,Not Rated,Crime,2015,"July 31, 2015 (United States)",6.6,7.3,8.2,75000,Nishikant Kamat,Ajay Devgn,India,Panorama Studios,163
+Attack on Titan Part 1,3,2762,Not Rated,Action,2015,"August 1, 2015 (Japan)",5.5,6.4,5,13000,Shinji Higuchi,Haruma Miura,Japan,Kôdansha,98
+Woman in Gold,3,2841,PG-13,Biography,2015,"April 10, 2015 (United States)",6.7,5.9,7.3,56000,Simon Curtis,Helen Mirren,United Kingdom,Origin Pictures,109
+Eddie the Eagle,3,2858,PG-13,Biography,2015,"February 26, 2016 (United States)",5.8,5.9,7.4,88000,Dexter Fletcher,Taron Egerton,United Kingdom,Hurwitz Creative,106
+Eye in the Sky,3,2959,R,Action,2015,"April 1, 2016 (United States)",5.8,6.3,7.3,81000,Gavin Hood,Helen Mirren,United Kingdom,Raindog Films,102
+The Second Best Exotic Marigold Hotel,3,3243,PG,Comedy,2015,"March 6, 2015 (United States)",7.2,5.2,6.6,32000,John Madden,Judi Dench,United Kingdom,Blueprint Pictures,122
+Tumbledown,3,3510,R,Comedy,2015,"February 5, 2016 (United States)",5.2,6.5,6.2,6800,Sean Mewshaw,Rebecca Hall,United States,BRON Studios,105
+Poltergeist,3,3949,PG-13,Horror,2015,"May 22, 2015 (United States)",7.1,5.7,4.9,56000,Gil Kenan,Sam Rockwell,United States,Fox 2000 Pictures,93
+The Meddler,3,5349,PG-13,Comedy,2015,"June 3, 2016 (Spain)",4.8,7.4,6.3,12000,Lorene Scafaria,Susan Sarandon,United States,Anonymous Content,103
+We Are Your Friends,3,5669,R,Drama,2015,"August 28, 2015 (United States)",6.3,7,6.2,37000,Max Joseph,Zac Efron,United Kingdom,StudioCanal,96
+Into the Forest,3,6377,R,Drama,2015,"July 29, 2016 (United States)",6.7,5.9,5.8,20000,Patricia Rozema,Elliot Page,Canada,Rhombus Media,101
+Grandma,3,7153,R,Comedy,2015,"September 18, 2015 (United States)",5.5,6,6.7,15000,Paul Weitz,Lily Tomlin,United States,Depth of Field,79
+Bajirao Mastani,3,7361,Not Rated,Action,2015,"December 18, 2015 (United States)",5.3,6.2,7.3,32000,Sanjay Leela Bhansali,Ranveer Singh,India,Bhansali Productions,158
+By the Sea,3,8622,R,Drama,2015,"December 9, 2015 (France)",5.1,6.8,5.3,19000,Angelina Jolie,Brad Pitt,France,Universal Pictures,122
+Mortdecai,3,8636,R,Action,2015,"January 23, 2015 (United States)",6.6,6,5.5,69000,David Koepp,Johnny Depp,United Kingdom,MWM Studios,107
+I'll See You in My Dreams,3,27369,PG-13,Comedy,2015,"May 15, 2015 (United States)",7.5,7.2,6.7,7100,Brett Haley,Blythe Danner,United States,Two Flints,92
+Maggie,3,44191,PG-13,Drama,2015,"May 8, 2015 (United States)",7.7,6.2,5.6,43000,Henry Hobson,Arnold Schwarzenegger,United States,Lionsgate,95
+Project Almanac,3,48783,PG-13,Drama,2015,"January 30, 2015 (United States)",5.8,6.2,6.4,77000,Dean Israelite,Amy Landecker,United States,Insurge Pictures,106
+Regression,3,50068,R,Crime,2015,"October 2, 2015 (Spain)",5.6,5.7,5.7,38000,Alejandro Amenábar,Ethan Hawke,Spain,Mod Producciones,106
+True Story,3,58559,R,Biography,2015,"April 17, 2015 (United States)",6.1,7.4,6.3,65000,Rupert Goold,James Franco,United States,New Regency Productions,99
+The Man Who Knew Infinity,4,84236,PG-13,Biography,2015,"April 29, 2016 (United States)",5.5,5.9,7.2,53000,Matt Brown,Dev Patel,United Kingdom,Pressman Film,108
+The Transporter Refueled,4,10,PG-13,Action,2015,"September 4, 2015 (United States)",5.4,6.6,5.2,40000,Camille Delamarre,Ed Skrein,France,EuropaCorp,96
+Z for Zachariah,4,34,PG-13,Drama,2015,"August 13, 2015 (Denmark)",6.2,6.5,6,29000,Craig Zobel,Chiwetel Ejiofor,Iceland,Silver Reel,98
+Equals,4,112,PG-13,Drama,2015,"May 26, 2016 (United States)",5.3,6.7,6.1,29000,Drake Doremus,Nicholas Hoult,United States,Freedom Media,101
+Dope,4,141,R,Adventure,2015,"June 19, 2015 (United States)",4.3,6.5,7.2,82000,Rick Famuyiwa,Shameik Moore,United States,i am OTHER,103
+Land of Mine,4,153,R,Drama,2015,"December 3, 2015 (Denmark)",7,7.3,7.8,38000,Martin Zandvliet,Roland Møller,Denmark,Nordisk Film,100
+Hot Pursuit,4,173,PG-13,Action,2015,"May 8, 2015 (United States)",7.2,5.7,5.2,49000,Anne Fletcher,Reese Witherspoon,United States,Metro-Goldwyn-Mayer (MGM),87
+Krampus,4,185,PG-13,Comedy,2015,"December 4, 2015 (United States)",5.2,6,6.2,66000,Michael Dougherty,Adam Scott,United States,Legendary Entertainment,98
+Bajrangi Bhaijaan,4,260,Not Rated,Action,2015,"July 17, 2015 (United States)",6.1,5.7,8,79000,Kabir Khan,Salman Khan,India,Eros Worldwide,163
+The Lure,4,289,Not Rated,Drama,2015,"December 25, 2015 (Poland)",7.3,6.9,6.3,7200,Agnieszka Smoczynska,Marta Mazurek,Poland,Wytwórnia Filmów Dokumentalnych i Fabularnych (WFDiF),92
+The Gunman,4,296,R,Action,2015,"March 20, 2015 (United States)",6.2,6.3,5.8,40000,Pierre Morel,Sean Penn,United States,Open Road Films (II),115
+The Night Before,4,329,R,Comedy,2015,"November 20, 2015 (United States)",7.8,6.8,6.4,68000,Jonathan Levine,Joseph Gordon-Levitt,United States,Columbia Pictures,101
+90 Minutes in Heaven,4,349,PG-13,Drama,2015,"September 11, 2015 (United States)",6.3,7.3,4.8,3500,Michael Polish,Kate Bosworth,United States,Astute Films,121
+Tale of Tales,4,356,R,Drama,2015,"April 22, 2016 (United States)",5.8,6.2,6.4,27000,Matteo Garrone,Salma Hayek,Italy,Archimede,134
+Ip Man 3,4,357,PG-13,Action,2015,"December 24, 2015 (Hong Kong)",6.3,6.1,7.1,51000,Wilson Yip,Donnie Yen,China,Golden Harvest Company,105
+"McFarland, USA",4,364,PG,Biography,2015,"February 20, 2015 (United States)",7.1,6.4,7.4,36000,Niki Caro,Kevin Costner,United States,Mayhem Pictures,129
+Strange Magic,4,367,PG,Animation,2015,"January 23, 2015 (United States)",5.6,4.7,5.8,10000,Gary Rydstrom,Evan Rachel Wood,United States,Buena Vista Negative Cutting,99
+The Peanuts Movie,4,380,G,Animation,2015,"November 6, 2015 (United States)",6.2,6.6,7.1,43000,Steve Martino,Noah Schnapp,United States,Twentieth Century Fox Animation,88
+Rock the Kasbah,4,410,R,Comedy,2015,"October 23, 2015 (United States)",4.9,6.3,5.5,11000,Barry Levinson,Bill Murray,United States,Covert Media,106
+The Sea of Trees,4,431,PG-13,Drama,2015,"August 26, 2016 (United States)",5.8,6.4,6.1,15000,Gus Van Sant,Matthew McConaughey,United States,Bloom,110
+Alvin and the Chipmunks: The Road Chip,4,434,PG,Animation,2015,"December 18, 2015 (United States)",7.5,6.5,5,18000,Walt Becker,Jason Lee,United States,Fox 2000 Pictures,92
+The Lazarus Effect,4,435,PG-13,Horror,2015,"February 27, 2015 (United States)",5.8,5.7,5.2,42000,David Gelb,Olivia Wilde,United States,Blumhouse Productions,83
+Love the Coopers,4,440,PG-13,Comedy,2015,"November 13, 2015 (United States)",7.1,7.9,5.8,22000,Jessie Nelson,Steve Martin,United States,CBS Films,107
+The 33,4,442,PG-13,Biography,2015,"November 13, 2015 (United States)",7.6,7.2,6.9,37000,Patricia Riggen,Antonio Banderas,Chile,Alcon Entertainment,127
+The Little Prince,4,464,PG,Animation,2015,"August 5, 2016 (United States)",8.4,6.8,7.7,58000,Mark Osborne,Jeff Bridges,France,Onyx Films,108
+Louder Than Bombs,4,480,R,Drama,2015,"October 2, 2015 (Norway)",7.1,6.2,6.6,12000,Joachim Trier,Jesse Eisenberg,Norway,Motlys,109
+The Gallows,4,541,R,Horror,2015,"July 10, 2015 (United States)",7.8,7.1,4.3,20000,Travis Cluff,Reese Mishler,United States,New Line Cinema,81
+The Ones Below,4,588,R,Drama,2015,"May 27, 2016 (United States)",6.4,6.2,6.1,9700,David Farr,Clémence Poésy,United Kingdom,Cuba Pictures,87
+Southbound,4,589,R,Horror,2015,"February 9, 2016 (United States)",5.5,6.4,5.9,17000,Directors,Chad Villella,United States,Soapbox Films,89
+Men & Chicken,4,590,Not Rated,Comedy,2015,"February 5, 2015 (Denmark)",8.4,5.9,6.7,11000,Anders Thomas Jensen,David Dencik,Denmark,M&M Productions,104
+Hyena Road,4,594,R,Action,2015,"October 9, 2015 (Canada)",6.8,6.8,6.5,7300,Paul Gross,Rossif Sutherland,Canada,Rhombus Media,120
+Slow West,4,596,R,Action,2015,"April 16, 2015 (United States)",8.6,5.7,6.9,44000,John Maclean,Kodi Smit-McPhee,United Kingdom,Film4,84
+The End of the Tour,4,610,R,Biography,2015,"November 12, 2015 (Brazil)",7.4,5.7,7.3,29000,James Ponsoldt,Jason Segel,United States,Modern Man Films,106
+Cop Car,4,616,R,Crime,2015,"August 7, 2015 (United States)",7.9,6.9,6.3,31000,Jon Watts,Kevin Bacon,United States,Audax Films,88
+The Daughter,4,858,Not Rated,Drama,2015,"January 27, 2017 (United States)",6.4,6.7,6.6,4900,Simon Stone,Geoffrey Rush,Australia,Screen NSW,96
+Jem and the Holograms,4,903,PG,Adventure,2015,"October 23, 2015 (United States)",6.8,6.7,4.2,7500,Jon M. Chu,Aubrey Peeples,United States,Allspark Pictures,118
+Cemetery of Splendor,4,910,Unrated,Drama,2015,"September 2, 2015 (France)",5.3,6.7,6.8,4400,Apichatpong Weerasethakul,Jenjira Pongpas,Thailand,Kick the Machine,122
+Captive,4,913,PG-13,Action,2015,"September 18, 2015 (United States)",7.5,5.1,5.4,6500,Jerry Jameson,Kate Mara,United States,BN Films,97
+Our Brand Is Crisis,4,919,R,Comedy,2015,"October 30, 2015 (United States)",7.9,6.3,6.1,21000,David Gordon Green,Sandra Bullock,United States,Fortis Films,107
+Unfinished Business,4,1011,R,Comedy,2015,"March 6, 2015 (United States)",7,5.7,5.4,33000,Ken Scott,Vince Vaughn,United States,New Regency Productions,91
+Hot Tub Time Machine 2,4,1016,R,Comedy,2015,"February 20, 2015 (United States)",6.5,6.8,5.1,38000,Steve Pink,Rob Corddry,United States,Paramount Pictures,93
+Turbo Kid,4,1022,Not Rated,Action,2015,"August 28, 2015 (United States)",8.3,7.5,6.7,27000,François Simard,Munro Chambers,Canada,EMA Films,93
+The Overnight,4,1028,R,Comedy,2015,"June 19, 2015 (United States)",6.5,7.2,6.1,16000,Patrick Brice,Adam Scott,United States,Duplass Brothers Productions,79
+"Hello, My Name Is Doris",4,1030,R,Comedy,2015,"April 1, 2016 (United States)",8.1,7.8,6.6,19000,Michael Showalter,Sally Field,United States,Red Crown Productions,90
+Ricki and the Flash,4,1031,PG-13,Comedy,2015,"August 7, 2015 (United States)",7.8,6.6,5.9,23000,Jonathan Demme,Meryl Streep,United States,Clinica Estetico,101
+Danny Collins,4,1032,R,Biography,2015,"April 10, 2015 (United States)",7.5,5,7,30000,Dan Fogelman,Al Pacino,United States,Big Indie Pictures,106
+Son of Saul,4,1033,R,Drama,2015,"June 11, 2015 (Hungary)",6.6,7.8,7.5,46000,László Nemes,Géza Röhrig,Hungary,Laokoon Filmgroup,107
+Mr. Holmes,4,1036,PG,Drama,2015,"July 24, 2015 (United States)",7.3,6,6.9,62000,Bill Condon,Ian McKellen,United Kingdom,Miramax,104
+Empire of Lust,4,1073,R,Action,2015,"March 5, 2015 (South Korea)",6.8,5.6,6,465,Sang-hoon Ahn,Shin Ha-kyun,South Korea,Fineworks,113
+Paul Blart: Mall Cop 2,4,1079,PG,Action,2015,"April 17, 2015 (United States)",6.9,6.3,4.4,35000,Andy Fickman,Kevin James,United States,Columbia Pictures,94
+Remember,4,1089,R,Drama,2015,"December 17, 2015 (United States)",5.2,5.7,7.5,24000,Atom Egoyan,Christopher Plummer,Canada,Serendipity Point Films,94
+War Room,4,1097,PG,Drama,2015,"August 28, 2015 (United States)",6.2,5.9,6.5,14000,Alex Kendrick,Priscilla C. Shirer,United States,FaithStep Films,120
+Dragon Blade,4,1125,R,Action,2015,"September 4, 2015 (United States)",7.4,6.5,6,19000,Daniel Lee,Jackie Chan,China,Sparkle Roll Media,127
+45 Years,4,1127,R,Drama,2015,"August 28, 2015 (United Kingdom)",5.7,6.8,7.1,32000,Andrew Haigh,Charlotte Rampling,United Kingdom,BFI Film Fund,91
+Mother's Day,4,1136,PG-13,Comedy,2016,"April 29, 2016 (United States)",6.2,8,5.7,35000,Garry Marshall,Jennifer Aniston,United States,Open Road Films (II),118
+Suicide Squad,4,1194,PG-13,Action,2016,"August 5, 2016 (United States)",7.2,9,5.9,625000,David Ayer,Will Smith,United States,Atlas Entertainment,123
+The Magnificent Seven,4,1196,PG-13,Action,2016,"September 23, 2016 (United States)",6.9,6.4,6.9,191000,Antoine Fuqua,Denzel Washington,United States,Metro-Goldwyn-Mayer (MGM),132
+Captain America: Civil War,4,1197,PG-13,Action,2016,"May 6, 2016 (United States)",7.8,9.1,7.8,694000,Anthony Russo,Chris Evans,United States,Marvel Studios,147
+Warcraft,4,1198,PG-13,Action,2016,"June 10, 2016 (United States)",6.7,2.9,6.8,249000,Duncan Jones,Travis Fimmel,China,Legendary Entertainment,123
+Deadpool,4,1200,R,Action,2016,"February 12, 2016 (United States)",6.8,2.8,8,932000,Tim Miller,Ryan Reynolds,United States,Twentieth Century Fox,108
+Doctor Strange,4,1206,PG-13,Action,2016,"November 4, 2016 (United States)",7.5,6.7,7.5,628000,Scott Derrickson,Benedict Cumberbatch,United States,Marvel Studios,115
+Split,4,1208,PG-13,Horror,2016,"January 20, 2017 (United States)",7.3,7,7.3,446000,M. Night Shyamalan,James McAvoy,United States,Universal Pictures,117
+Me Before You,4,1210,PG-13,Drama,2016,"June 3, 2016 (United States)",7.4,6.5,7.4,220000,Thea Sharrock,Emilia Clarke,United Kingdom,Metro-Goldwyn-Mayer (MGM),106
+Don't Breathe,4,1213,R,Crime,2016,"August 26, 2016 (United States)",7.1,7.4,7.1,235000,Fede Alvarez,Stephen Lang,United States,Screen Gems,88
+Lady Macbeth,4,1214,R,Drama,2016,"July 14, 2017 (United States)",6.8,7.8,6.8,21000,William Oldroyd,Florence Pugh,United Kingdom,Sixty-Six Pictures,89
+Moana,4,1219,PG,Animation,2016,"November 23, 2016 (United States)",7.6,8.1,7.6,289000,Directors,Auli'i Cravalho,United States,Hurwitz Creative,107
+Arrival,4,1220,PG-13,Drama,2016,"November 11, 2016 (United States)",7.9,8,7.9,621000,Denis Villeneuve,Amy Adams,United States,Lava Bear Films,116
+X-Men: Apocalypse,4,1222,PG-13,Action,2016,"May 27, 2016 (United States)",6.9,5.7,6.9,404000,Bryan Singer,James McAvoy,United States,Twentieth Century Fox,144
+Captain Fantastic,4,1225,R,Comedy,2016,"July 29, 2016 (United States)",7.9,7.9,7.9,201000,Matt Ross,Viggo Mortensen,United States,Electric City Entertainment,118
+Star Trek Beyond,4,1230,PG-13,Action,2016,"July 22, 2016 (United States)",7.1,6.9,7,234000,Justin Lin,Chris Pine,United States,Paramount Pictures,122
+Sing,4,1240,PG,Animation,2016,"December 21, 2016 (United States)",7.1,7.1,7.1,140000,Garth Jennings,Matthew McConaughey,United States,Dentsu,108
+La La Land,4,1243,PG-13,Comedy,2016,"December 25, 2016 (United States)",8,9,8,527000,Damien Chazelle,Ryan Gosling,United States,Summit Entertainment,128
+The Conjuring 2,4,1257,R,Horror,2016,"June 10, 2016 (United States)",7.3,6.8,7.3,242000,James Wan,Vera Farmiga,Canada,New Line Cinema,134
+Passengers,4,1258,PG-13,Drama,2016,"December 21, 2016 (United States)",7,5.5,7,364000,Morten Tyldum,Jennifer Lawrence,United States,Columbia Pictures,116
+Zootopia,4,1259,PG,Animation,2016,"March 4, 2016 (United States)",8,9.1,8,450000,Byron Howard,Ginnifer Goodwin,United States,Walt Disney Pictures,108
+The Huntsman: Winter's War,4,1265,PG-13,Action,2016,"April 22, 2016 (United States)",6.1,3.6,6.1,101000,Cedric Nicolas-Troyan,Chris Hemsworth,United States,Universal Pictures,114
+Hacksaw Ridge,4,1270,R,Biography,2016,"November 4, 2016 (United States)",8.1,8.4,8.1,457000,Mel Gibson,Andrew Garfield,Australia,Summit Entertainment,139
+The Handmaiden,4,1278,Not Rated,Drama,2016,"June 1, 2016 (South Korea)",8.1,8.5,8.1,123000,Park Chan-Wook,Kim Min-hee,South Korea,CJ Entertainment,145
+13 Hours,4,1282,R,Action,2016,"January 15, 2016 (United States)",7.3,6.1,7.3,126000,Michael Bay,John Krasinski,United States,Paramount Pictures,144
+Nocturnal Animals,4,1285,R,Drama,2016,"December 9, 2016 (United States)",7.5,7.7,7.5,248000,Tom Ford,Amy Adams,United States,Focus Features,116
+Rogue One: A Star Wars Story,4,1288,PG-13,Action,2016,"December 16, 2016 (United States)",7.8,7.9,7.8,572000,Gareth Edwards,Felicity Jones,United States,Lucasfilm,133
+Batman v Superman: Dawn of Justice,4,1291,PG-13,Action,2016,"March 25, 2016 (United States)",6.4,4.6,6.4,655000,Zack Snyder,Ben Affleck,United States,Warner Bros.,152
+Your Name.,4,1298,TV-PG,Animation,2016,"April 7, 2017 (United States)",8.4,8.8,8.4,215000,Makoto Shinkai,Ryûnosuke Kamiki,Japan,Amuse,106
+Kung Fu Panda 3,4,1307,PG,Animation,2016,"January 29, 2016 (United States)",7.1,7,7.1,141000,Alessandro Carloni,Jack Black,United States,China Film Group Corporation (CFGC),95
+The Nice Guys,4,1332,R,Action,2016,"May 20, 2016 (United States)",7.4,7.8,7.4,294000,Shane Black,Russell Crowe,United States,Warner Bros.,116
+Independence Day: Resurgence,4,1334,PG-13,Action,2016,"June 24, 2016 (United States)",5.2,4.4,5.2,171000,Roland Emmerich,Liam Hemsworth,United States,Twentieth Century Fox,120
+Raw,4,1344,R,Drama,2016,"March 15, 2017 (Belgium)",7,7.5,7,64000,Julia Ducournau,Garance Marillier,France,Petit Film,99
+Miss Peregrine's Home for Peculiar Children,4,1356,PG-13,Adventure,2016,"September 30, 2016 (United States)",6.7,6.3,6.7,160000,Tim Burton,Eva Green,United States,Twentieth Century Fox,127
+Fantastic Beasts and Where to Find Them,4,1371,PG-13,Adventure,2016,"November 18, 2016 (United States)",7.3,7.3,7.3,422000,David Yates,Eddie Redmayne,United Kingdom,Heyday Films,132
+Train to Busan,4,1372,Not Rated,Action,2016,"July 20, 2016 (South Korea)",7.6,8.1,7.6,181000,Sang-ho Yeon,Gong Yoo,South Korea,Next Entertainment World,118
+Resident Evil: The Final Chapter,4,1374,R,Action,2016,"January 27, 2017 (United States)",5.5,3.8,5.5,87000,Paul W.S. Anderson,Milla Jovovich,United States,Screen Gems,107
+Criminal,4,1376,R,Action,2016,"April 15, 2016 (United States)",3.3,3.8,6.3,62000,Ariel Vromen,Kevin Costner,United States,Summit Entertainment,113
+Underworld: Blood Wars,4,1377,R,Action,2016,"January 6, 2017 (United States)",5.8,2.8,5.8,72000,Anna Foerster,Kate Beckinsale,United States,Screen Gems,91
+The Shallows,4,1380,PG-13,Action,2016,"June 24, 2016 (United States)",6.3,6.6,6.3,124000,Jaume Collet-Serra,Blake Lively,United States,Columbia Pictures,86
+Hidden Figures,4,1387,PG,Biography,2016,"January 6, 2017 (United States)",7.8,7.8,7.8,209000,Theodore Melfi,Taraji P. Henson,United States,Fox 2000 Pictures,127
+Sausage Party,4,1388,R,Animation,2016,"August 12, 2016 (United States)",6.1,6,6.1,181000,Greg Tiernan,Seth Rogen,United States,Annapurna Pictures,89
+The Girl on the Train,4,1396,R,Crime,2016,"October 7, 2016 (United States)",6.5,5,6.5,176000,Tate Taylor,Emily Blunt,United States,Dreamworks Pictures,112
+Hell or High Water,4,1544,R,Action,2016,"August 26, 2016 (United States)",7.6,8.1,7.6,211000,David Mackenzie,Chris Pine,United States,CBS Films,102
+The Purge: Election Year,4,1580,R,Action,2016,"July 1, 2016 (United States)",6,5.1,6,93000,James DeMonaco,Frank Grillo,United States,Universal Pictures,108
+Ghostbusters,4,1663,PG-13,Action,2016,"July 15, 2016 (United States)",6.4,4.8,6.7,209000,Paul Feig,Melissa McCarthy,United States,Columbia Pictures,117
+The Accountant,4,1674,R,Action,2016,"October 14, 2016 (United States)",7.3,6.6,7.3,271000,Gavin O'Connor,Ben Affleck,United States,Warner Bros.,128
+The Neon Demon,4,1805,R,Horror,2016,"June 24, 2016 (United States)",6.2,6.5,6.2,87000,Nicolas Winding Refn,Elle Fanning,United States,Space Rocket Nation,117
+Moonlight,4,1858,R,Drama,2016,"November 18, 2016 (United States)",7.4,9,7.4,284000,Barry Jenkins,Mahershala Ali,United States,A24,111
+Jason Bourne,4,1917,PG-13,Action,2016,"July 29, 2016 (United States)",6.6,5.2,6.6,213000,Paul Greengrass,Matt Damon,United States,Universal Pictures,123
+Manchester by the Sea,4,1918,R,Drama,2016,"December 16, 2016 (United States)",7.8,8.7,7.8,257000,Kenneth Lonergan,Casey Affleck,United States,Amazon Studios,137
+Central Intelligence,4,1953,PG-13,Action,2016,"June 17, 2016 (United States)",6.3,6.1,6.3,166000,Rawson Marshall Thurber,Dwayne Johnson,United States,New Line Cinema,107
+War Dogs,4,1954,R,Biography,2016,"August 19, 2016 (United States)",7.1,6.2,7.1,188000,Todd Phillips,Jonah Hill,United States,BZ Entertainment,114
+The Legend of Tarzan,4,1961,PG-13,Action,2016,"July 1, 2016 (United States)",6.2,4.9,6.2,168000,David Yates,Alexander Skarsgård,United Kingdom,Village Roadshow Pictures,110
+Silence,4,1967,R,Drama,2016,"January 13, 2017 (United States)",7.2,7.6,7.2,104000,Martin Scorsese,Andrew Garfield,United States,SharpSword Films,161
+American Honey,4,1968,R,Adventure,2016,"October 14, 2016 (United Kingdom)",7,7.5,7,40000,Andrea Arnold,Sasha Lane,United Kingdom,Maven Pictures,163
+Gods of Egypt,4,1994,PG-13,Action,2016,"February 26, 2016 (United States)",5.4,4.2,5.4,110000,Alex Proyas,Brenton Thwaites,United States,Pyramania,127
+Hunt for the Wilderpeople,4,2000,PG-13,Adventure,2016,"July 1, 2016 (United States)",7.9,9,7.9,118000,Taika Waititi,Sam Neill,New Zealand,Piki Films,101
+The Founder,4,2002,PG-13,Biography,2016,"January 20, 2017 (United States)",7.2,7.3,7.2,134000,John Lee Hancock,Michael Keaton,United States,The Weinstein Company,115
+Inferno,4,2003,PG-13,Action,2016,"October 28, 2016 (United States)",6.2,3.6,6.2,165000,Ron Howard,Tom Hanks,United States,Columbia Pictures,121
+Now You See Me 2,4,2005,PG-13,Action,2016,"June 10, 2016 (United States)",6.5,4.5,6.5,260000,Jon M. Chu,Jesse Eisenberg,United States,Summit Entertainment,129
+Miss Sloane,4,2014,R,Drama,2016,"December 9, 2016 (United States)",7.4,6.6,7.5,68000,John Madden,Jessica Chastain,France,EuropaCorp,132
+The Jungle Book,4,2018,PG,Adventure,2016,"April 15, 2016 (United States)",7.4,9,7.4,264000,Jon Favreau,Neel Sethi,United Kingdom,Fairview Entertainment,106
+10 Cloverfield Lane,4,2020,PG-13,Action,2016,"March 11, 2016 (United States)",7.2,7.8,7.2,300000,Dan Trachtenberg,John Goodman,United States,Paramount Pictures,103
+The Lost City of Z,4,2021,PG-13,Biography,2016,"April 21, 2017 (United States)",6.6,8.1,6.6,83000,James Gray,Charlie Hunnam,United States,Keep Your Head,141
+Finding Dory,4,2033,PG,Animation,2016,"June 17, 2016 (United States)",7.3,8.3,7.3,250000,Andrew Stanton,Ellen DeGeneres,United States,Pixar Animation Studios,97
+Lion,4,2034,PG-13,Biography,2016,"January 6, 2017 (United States)",8,8.6,8,221000,Garth Davis,Dev Patel,United Kingdom,The Weinstein Company,118
+Lights Out,4,2046,PG-13,Drama,2016,"July 22, 2016 (United States)",6.3,6.2,6.3,119000,David F. Sandberg,Teresa Palmer,United States,New Line Cinema,81
+Meet the Blacks,4,2054,R,Comedy,2016,"April 1, 2016 (United States)",4.8,2.9,4.8,36000,Deon Taylor,Mike Epps,United States,Hidden Empire Film Group (HEFG),94
+Allied,4,2064,R,Action,2016,"November 23, 2016 (United States)",7.1,6.6,7.1,146000,Robert Zemeckis,Brad Pitt,United Kingdom,Paramount Pictures,124
+Jack Reacher: Never Go Back,4,2078,PG-13,Action,2016,"October 21, 2016 (United States)",6.1,3.9,6.1,144000,Edward Zwick,Tom Cruise,China,Paramount Pictures,118
+Bridget Jones's Baby,4,2080,R,Comedy,2016,"September 16, 2016 (United States)",6.5,6.2,6.5,71000,Sharon Maguire,Renée Zellweger,United States,Universal Pictures,123
+How to Be Single,4,2081,R,Comedy,2016,"February 12, 2016 (United States)",6.1,4.8,6.1,83000,Christian Ditter,Dakota Johnson,United States,New Line Cinema,110
+Snowden,4,2085,R,Biography,2016,"September 16, 2016 (United States)",7.3,6.4,7.3,143000,Oliver Stone,Joseph Gordon-Levitt,United Kingdom,Endgame Entertainment,134
+Dangal,4,2086,Not Rated,Action,2016,"December 21, 2016 (United States)",8.4,9,8.4,167000,Nitesh Tiwari,Aamir Khan,India,Aamir Khan Productions,161
+The Bad Batch,4,2087,R,Action,2016,"June 23, 2017 (United States)",5.3,4.4,5.3,28000,Ana Lily Amirpour,Suki Waterhouse,United States,Human Stew Factory,118
+Triple 9,4,2091,R,Action,2016,"February 26, 2016 (United States)",6.3,4.6,6.3,69000,John Hillcoat,Casey Affleck,United States,Worldview Entertainment,115
+Deepwater Horizon,4,2094,PG-13,Action,2016,"September 30, 2016 (United States)",7.1,6.7,7.1,157000,Peter Berg,Mark Wahlberg,United States,Summit Entertainment,107
+The Choice,4,2096,PG-13,Drama,2016,"February 5, 2016 (United States)",6.6,5.4,6.6,37000,Ross Katz,Benjamin Walker,United States,Nicholas Sparks Productions,111
+Sully,4,2100,PG-13,Biography,2016,"September 9, 2016 (United States)",7.4,7.3,7.4,248000,Clint Eastwood,Tom Hanks,United States,Flashlight Films,96
+Morgan,4,2102,R,Action,2016,"September 2, 2016 (United States)",5.8,5.4,5.8,41000,Luke Scott,Kate Mara,United States,Burk A Project,92
+Pride and Prejudice and Zombies,4,2105,PG-13,Action,2016,"February 5, 2016 (United States)",5.8,5.1,5.8,53000,Burr Steers,Lily James,United States,Cross Creek Pictures,108
+The Infiltrator,4,2109,R,Biography,2016,"July 13, 2016 (United States)",7,7,7,71000,Brad Furman,Bryan Cranston,United Kingdom,George Films,127
+The Edge of Seventeen,4,2110,R,Comedy,2016,"November 18, 2016 (United States)",7.3,9,7.3,110000,Kelly Fremon Craig,Hailee Steinfeld,United States,Gracie Films,104
+A Cure for Wellness,4,2114,R,Drama,2016,"February 17, 2017 (United States)",6.4,4.9,6.4,90000,Gore Verbinski,Dane DeHaan,United States,New Regency Productions,146
+London Has Fallen,4,2115,R,Action,2016,"March 4, 2016 (United States)",5.9,4.9,5.9,149000,Babak Najafi,Gerard Butler,United States,Millennium Films,99
+Dirty Grandpa,4,2124,R,Comedy,2016,"January 22, 2016 (United States)",5.9,2.5,5.9,117000,Dan Mazer,Robert De Niro,United States,Lionsgate,102
+"Hail, Caesar!",4,2140,PG-13,Comedy,2016,"February 5, 2016 (United States)",6.3,6.5,6.3,127000,Ethan Coen,Josh Brolin,United States,Universal Pictures,106
+The 5th Wave,4,2141,PG-13,Action,2016,"January 22, 2016 (United States)",5.2,5,5.2,103000,J Blakeson,Chloë Grace Moretz,United States,Columbia Pictures,112
+Trolls,4,2143,PG,Animation,2016,"November 4, 2016 (United States)",6.5,6.6,6.5,75000,Mike Mitchell,Anna Kendrick,United States,DreamWorks Animation,92
+Allegiant,4,2144,PG-13,Action,2016,"March 18, 2016 (United States)",5.7,4.4,5.7,113000,Robert Schwentke,Shailene Woodley,United States,Mandeville Films,120
+Paterson,4,2161,R,Comedy,2016,"December 28, 2016 (United States)",7.4,9,7.4,74000,Jim Jarmusch,Adam Driver,France,K5 International,118
+Swiss Army Man,4,2174,R,Comedy,2016,"July 1, 2016 (United States)",7,7.1,7,109000,Dan Kwan,Paul Dano,United States,Astrakan Films,97
+The Great Wall,4,2193,PG-13,Action,2016,"February 17, 2017 (United States)",5.9,5.3,5.9,128000,Yimou Zhang,Matt Damon,United States,Legendary East,103
+Mike and Dave Need Wedding Dates,4,2194,R,Comedy,2016,"July 8, 2016 (United States)",6,5.4,6,85000,Jake Szymanski,Zac Efron,United States,Twentieth Century Fox,98
+Bad Moms,4,2248,R,Comedy,2016,"July 29, 2016 (United States)",6.2,6.3,6.2,117000,Jon Lucas,Mila Kunis,United States,STX Entertainment,100
+Collateral Beauty,4,2263,PG-13,Drama,2016,"December 16, 2016 (United States)",6.8,1.4,6.8,95000,David Frankel,Will Smith,United States,New Line Cinema,97
+The Boy,4,2268,PG-13,Horror,2016,"January 22, 2016 (United States)",6,4,6,84000,William Brent Bell,Lauren Cohan,United States,Lakeshore Entertainment,97
+Fences,4,2289,PG-13,Drama,2016,"December 25, 2016 (United States)",7.2,8,7.2,101000,Denzel Washington,Denzel Washington,United States,BRON Studios,139
+Alice Through the Looking Glass,4,2348,PG,Adventure,2016,"May 27, 2016 (United States)",6.2,3.8,6.2,98000,James Bobin,Mia Wasikowska,United States,Walt Disney Pictures,113
+The Brothers Grimsby,4,2371,R,Action,2016,"March 11, 2016 (United States)",6.2,3.3,6.2,96000,Louis Leterrier,Sacha Baron Cohen,United Kingdom,Blue Sky Films,83
+Ice Age: Collision Course,4,2403,PG,Animation,2016,"July 22, 2016 (United States)",5.7,3.3,5.7,60000,Mike Thurmeier,Ray Romano,United States,Blue Sky Studios,94
+Patriots Day,4,2406,R,Action,2016,"January 13, 2017 (United States)",7.4,7.6,7.4,96000,Peter Berg,Mark Wahlberg,Hong Kong,CBS Films,133
+Keeping Up with the Joneses,4,2409,PG-13,Action,2016,"October 21, 2016 (United States)",5.9,4.7,5.9,60000,Greg Mottola,Zach Galifianakis,United States,Fox 2000 Pictures,105
+Genius,4,2454,PG-13,Biography,2016,"June 10, 2016 (United States)",6.5,5.3,6.6,19000,Michael Grandage,Colin Firth,United Kingdom,Desert Wolf Productions,104
+The Secret Life of Pets,4,2467,PG,Animation,2016,"July 8, 2016 (United States)",6.5,6.5,6.5,188000,Chris Renaud,Louis C.K.,United States,Universal Pictures,87
+Popstar: Never Stop Never Stopping,4,2551,R,Comedy,2016,"June 3, 2016 (United States)",6.7,6.5,6.7,57000,Akiva Schaffer,Andy Samberg,United States,Universal Pictures,87
+Goldstone,4,2616,R,Crime,2016,"July 7, 2016 (Australia)",6.3,5.8,6.5,5100,Ivan Sen,Aaron Pedersen,Australia,Bunya Productions,110
+20th Century Women,4,2628,R,Comedy,2016,"January 20, 2017 (United States)",7.3,7.8,7.3,42000,Mike Mills,Annette Bening,United States,A24,119
+Assassin's Creed,4,2640,PG-13,Action,2016,"December 21, 2016 (United States)",5.7,3.9,5.7,190000,Justin Kurzel,Michael Fassbender,United States,New Regency Productions,115
+Teenage Mutant Ninja Turtles: Out of the Shadows,4,2659,PG-13,Action,2016,"June 3, 2016 (United States)",6,4.8,6,87000,Dave Green,Megan Fox,United States,Paramount Pictures,112
+White Girl,4,2683,Not Rated,Crime,2016,"December 1, 2016 (United States)",5.7,6.3,5.7,10000,Elizabeth Wood,Morgan Saylor,United States,Bank Street Films,88
+Everybody Wants Some!!,4,2699,R,Comedy,2016,"April 7, 2016 (Russia)",7,8.2,6.9,53000,Richard Linklater,Blake Jenner,United States,Annapurna Pictures,117
+The Take,4,2716,R,Action,2016,"November 18, 2016 (United States)",6.3,4.9,6.3,40000,James Watkins,Idris Elba,United Kingdom,StudioCanal,92
+The Finest Hours,4,2723,PG-13,Action,2016,"January 29, 2016 (United States)",6.7,6.4,6.8,63000,Craig Gillespie,Chris Pine,United States,Walt Disney Pictures,117
+Greater,4,2734,PG,Biography,2016,"August 26, 2016 (United States)",7.2,6,7.3,5300,David L. Hunt,Neal McDonough,United States,Greater Productions,130
+The Love Witch,4,2770,Unrated,Comedy,2016,"March 10, 2017 (United Kingdom)",6.2,6.6,6.2,14000,Anna Biller,Samantha Robinson,United States,Anna Biller Productions,120
+The Belko Experiment,4,2788,R,Horror,2016,"March 17, 2017 (United States)",6.1,5.8,6.1,46000,Greg McLean,John Gallagher Jr.,United States,Orion Pictures,89
+The BFG,4,2791,PG,Adventure,2016,"July 1, 2016 (United States)",6.4,6.6,6.4,80000,Steven Spielberg,Mark Rylance,United States,Walt Disney Pictures,117
+Zoolander 2,4,2795,PG-13,Action,2016,"February 12, 2016 (United States)",4.7,2.8,4.7,66000,Ben Stiller,Ben Stiller,United States,Panorama Films,101
+Midnight Special,4,2797,PG-13,Drama,2016,"April 21, 2016 (Greece)",6.6,6.9,6.6,77000,Jeff Nichols,Michael Shannon,United States,Warner Bros.,112
+The Angry Birds Movie,4,2804,PG,Animation,2016,"May 20, 2016 (United States)",6.3,4.9,6.3,84000,Clay Kaytis,Jason Sudeikis,Finland,Columbia Pictures,97
+Live by Night,4,2822,R,Action,2016,"January 13, 2017 (United States)",6.4,3.4,6.4,54000,Ben Affleck,Ben Affleck,United States,Appian Way,129
+Nerve,4,2867,PG-13,Action,2016,"July 27, 2016 (United States)",6.5,6.6,6.5,120000,Henry Joost,Emma Roberts,United States,Lionsgate,96
+Mechanic: Resurrection,4,2872,R,Action,2016,"August 26, 2016 (United States)",5.7,3.3,5.7,79000,Dennis Gansel,Jason Statham,United States,Summit Entertainment,98
+Sing Street,4,2877,PG-13,Comedy,2016,"March 17, 2016 (Ireland)",8,9.5,7.9,88000,John Carney,Ferdia Walsh-Peelo,Ireland,Cosmo Films,106
+The Light Between Oceans,4,2902,PG-13,Drama,2016,"September 2, 2016 (United States)",7.2,6,7.2,54000,Derek Cianfrance,Michael Fassbender,United Kingdom,Heyday Films,133
+Shin Godzilla,4,2903,Not Rated,Action,2016,"July 29, 2016 (Japan)",6.6,8.6,6.8,25000,Hideaki Anno,Hiroki Hasegawa,Japan,Cine Bazar,120
+Why Him?,4,2916,R,Comedy,2016,"December 23, 2016 (United States)",6.2,4.3,6.2,104000,John Hamburg,Zoey Deutch,United States,Twentieth Century Fox,111
+Miracles from Heaven,4,2918,PG,Biography,2016,"March 16, 2016 (United States)",7.1,4.5,7.1,23000,Patricia Riggen,Jennifer Garner,United States,Columbia Pictures,109
+Colossal,4,2968,R,Comedy,2016,"April 21, 2017 (Canada)",6.2,8.1,6.2,61000,Nacho Vigalondo,Anne Hathaway,Canada,Toy Fight Productions,109
+Free Fire,4,2986,R,Action,2016,"April 21, 2017 (United States)",6.4,6.8,6.4,44000,Ben Wheatley,Sharlto Copley,United Kingdom,Film4,91
+The Void,4,2987,Not Rated,Horror,2016,"April 7, 2017 (United States)",5.8,5.5,5.9,33000,Jeremy Gillespie,Aaron Poole,Canada,120dB Films,90
+The Exception,4,2991,R,Drama,2016,"June 2, 2017 (United States)",6.8,7.6,6.8,12000,David Leveaux,Lily James,United Kingdom,Egoli Tossell KLK,107
+Neighbors 2: Sorority Rising,4,3016,R,Comedy,2016,"May 20, 2016 (United States)",5.7,6.3,5.7,116000,Nicholas Stoller,Seth Rogen,United States,Universal Pictures,92
+Ben-Hur,4,3034,PG-13,Action,2016,"August 19, 2016 (United States)",5.7,2.6,5.7,43000,Timur Bekmambetov,Jack Huston,United States,Hivemind,123
+Free State of Jones,4,3039,R,Action,2016,"June 24, 2016 (United States)",6.9,4.5,6.9,55000,Gary Ross,Matthew McConaughey,United States,Route One Entertainment,139
+Jackie,4,3040,R,Biography,2016,"December 2, 2016 (United States)",6.7,8.7,6.7,75000,Pablo Larraín,Natalie Portman,United States,Fox Searchlight Pictures,100
+Gold,4,3060,R,Crime,2016,"January 27, 2017 (United States)",6.7,4.3,6.7,60000,Stephen Gaghan,Matthew McConaughey,United States,Black Bear Pictures,120
+Pete's Dragon,4,3071,PG,Action,2016,"August 12, 2016 (United States)",6.7,8.8,6.7,55000,David Lowery,Bryce Dallas Howard,United States,Walt Disney Pictures,102
+31,4,3101,Unrated,Horror,2016,"September 16, 2016 (United States)",5.1,4.9,5.1,19000,Rob Zombie,Malcolm McDowell,United Kingdom,Bow and Arrow Entertainment,102
+Keanu,4,3104,R,Action,2016,"April 29, 2016 (United States)",6.3,7.8,6.3,47000,Peter Atencio,Keegan-Michael Key,United States,Artists First,100
+Goat,4,3108,R,Drama,2016,"September 23, 2016 (United States)",5.7,7.5,5.7,7500,Andrew Neel,Ben Schnetzer,United States,Killer Films,96
+Storks,4,3169,PG,Animation,2016,"September 23, 2016 (United States)",6.8,6.4,6.8,58000,Nicholas Stoller,Andy Samberg,United States,RatPac-Dune Entertainment,87
+A Monster Calls,4,3208,PG-13,Adventure,2016,"January 6, 2017 (United States)",7.5,8.6,7.5,83000,J.A. Bayona,Lewis MacDougall,United Kingdom,Participant,108
+Anthropoid,4,3210,R,Action,2016,"September 9, 2016 (United Kingdom)",7.2,6.6,7.2,45000,Sean Ellis,Jamie Dornan,Czech Republic,LD Entertainment,120
+Kubo and the Two Strings,4,3251,PG,Animation,2016,"August 19, 2016 (United States)",7.8,9.7,7.8,121000,Travis Knight,Charlize Theron,United States,Focus Features,101
+Café Society,4,3255,PG-13,Comedy,2016,"August 5, 2016 (United States)",6.6,7,6.6,73000,Woody Allen,Jesse Eisenberg,United States,Gravier Productions,96
+Blair Witch,4,3263,R,Horror,2016,"September 16, 2016 (United States)",5,3.7,5,43000,Adam Wingard,James Allen McCune,Canada,Lionsgate,89
+The Salesman,4,3265,PG-13,Drama,2016,"August 31, 2016 (Iran)",7.8,9.6,7.8,54000,Asghar Farhadi,Shahab Hosseini,Iran,ARTE,124
+In a Valley of Violence,5,4006,R,Action,2016,"October 21, 2016 (United States)",6,7.7,6,17000,Ti West,Ethan Hawke,United States,Blumhouse Productions,104
+Ratchet & Clank,5,3,PG,Animation,2016,"April 29, 2016 (United States)",5.6,2.1,5.6,10000,Kevin Munroe,James Arnold Taylor,Hong Kong,Gramercy Pictures (I),94
+Risen,5,39,PG-13,Action,2016,"February 19, 2016 (United States)",6.3,5.2,6.3,26000,Kevin Reynolds,Joseph Fiennes,United States,LD Entertainment,107
+Rules Don't Apply,5,104,PG-13,Comedy,2016,"November 23, 2016 (United States)",5.7,5.5,5.7,10000,Warren Beatty,Lily Collins,United States,New Regency Productions,127
+Office Christmas Party,5,141,R,Comedy,2016,"December 9, 2016 (United States)",5.8,4.1,5.9,72000,Josh Gordon,Jason Bateman,United States,DreamWorks,105
+Better Watch Out,5,150,R,Comedy,2016,"November 9, 2017 (New Zealand)",6.5,8.9,6.5,33000,Chris Peckover,Olivia DeJonge,Australia,Storm Vision Entertainment,89
+Florence Foster Jenkins,5,231,PG-13,Biography,2016,"August 12, 2016 (United States)",6.8,8.7,6.8,52000,Stephen Frears,Meryl Streep,United Kingdom,Pathé,111
+Batman: The Killing Joke,5,277,R,Animation,2016,"July 25, 2016 (United States)",6.4,3.9,6.4,52000,Sam Liu,Kevin Conroy,United States,Warner Bros. Animation,76
+Leap!,5,344,PG,Animation,2016,"August 25, 2017 (United States)",6.7,4.2,6.8,21000,Directors,Elle Fanning,France,Quad Productions,89
+The Untamed,5,356,Not Rated,Drama,2016,"July 21, 2017 (United States)",6.3,8.6,6.1,5000,Amat Escalante,Ruth Ramos,Mexico,Mantarraya Producciones,98
+A Hologram for the King,5,364,R,Comedy,2016,"April 28, 2016 (Germany)",6.1,7,6.1,42000,Tom Tykwer,Tom Hanks,United Kingdom,X-Filme Creative Pool,98
+Ouija: Origin of Evil,5,367,PG-13,Drama,2016,"October 21, 2016 (United States)",6.1,8.3,6.1,56000,Mike Flanagan,Elizabeth Reaser,United States,Universal Pictures,99
+All I See Is You,5,377,R,Drama,2016,"October 27, 2017 (United States)",5.3,2.6,5.4,11000,Marc Forster,Blake Lively,United States,2DUX²,109
+The Forest,5,440,PG-13,Horror,2016,"January 8, 2016 (United States)",4.8,1,4.8,41000,Jason Zada,Natalie Dormer,United States,AI-Film,93
+Money Monster,5,500,R,Crime,2016,"May 13, 2016 (United States)",6.5,5.9,6.5,96000,Jodie Foster,George Clooney,United States,TriStar Pictures,98
+Monster Trucks,5,586,PG,Animation,2016,"January 13, 2017 (United States)",5.6,3.2,5.7,16000,Chris Wedge,Lucas Till,Canada,Paramount Pictures,104
+The Hollars,5,588,PG-13,Comedy,2016,"August 26, 2016 (United States)",6.5,4.5,6.6,12000,John Krasinski,Sharlto Copley,United States,Sycamore Pictures,88
+Fifty Shades of Black,5,595,R,Comedy,2016,"January 29, 2016 (United States)",3.5,0.7,3.5,20000,Michael Tiddes,Marlon Wayans,United States,Fermion Films,92
+Toni Erdmann,5,597,R,Comedy,2016,"December 25, 2016 (United States)",7.4,9.3,7.4,46000,Maren Ade,Sandra Hüller,Germany,Komplizen Film,162
+Their Finest,5,788,R,Comedy,2016,"April 7, 2017 (United States)",6.8,8.5,6.8,19000,Lone Scherfig,Gemma Arterton,United Kingdom,BBC Films,117
+My Big Fat Greek Wedding 2,5,858,PG-13,Comedy,2016,"March 25, 2016 (United States)",5.8,8.7,6,29000,Kirk Jones,Nia Vardalos,United States,Gold Circle Films,94
+Billy Lynn's Long Halftime Walk,5,903,R,Action,2016,"November 18, 2016 (United States)",6.2,4.6,6.2,22000,Ang Lee,Joe Alwyn,United Kingdom,Bona Film Group,113
+Personal Shopper,5,919,R,Drama,2016,"March 10, 2017 (United States)",6.1,7.9,6.1,37000,Olivier Assayas,Kristen Stewart,France,CG Cinéma,105
+Our Kind of Traitor,5,1022,R,Crime,2016,"May 13, 2016 (United Kingdom)",6.2,7,6.2,21000,Susanna White,Carlos Acosta,United Kingdom,StudioCanal,108
+Love & Friendship,5,1035,PG,Comedy,2016,"June 3, 2016 (United States)",6.4,9.7,6.4,24000,Whit Stillman,Kate Beckinsale,Ireland,Westerly Films,90
+Bleed for This,5,1193,R,Biography,2016,"November 18, 2016 (United States)",6.8,7.1,6.8,26000,Ben Younger,Miles Teller,United States,Verdi Productions,117
+Whiskey Tango Foxtrot,5,1221,R,Biography,2016,"March 4, 2016 (United States)",6.6,6.8,6.6,51000,Glenn Ficarra,Tina Fey,United States,Broadway Video,112
+Loving,5,1247,PG-13,Biography,2016,"November 4, 2016 (United States)",7,8.9,7,33000,Jeff Nichols,Ruth Negga,United Kingdom,Raindog Films,123
+"I, Daniel Blake",5,1307,R,Drama,2016,"June 9, 2017 (United States)",7.9,9.2,7.9,56000,Ken Loach,Dave Johns,United Kingdom,Sixteen Films,100
+Sanam Teri Kasam,5,1380,Not Rated,Drama,2016,"February 5, 2016 (India)",7.3,6,7.5,11000,Radhika Rao,Harshvardhan Rane,India,Jhoom Jhoom Productions,154
+Pet,5,1393,R,Horror,2016,"December 2, 2016 (United States)",5.7,4.5,5.7,16000,Carles Torrens,Dominic Monaghan,Spain,Cine365 Films,94
+Kingsglaive: Final Fantasy XV,5,1485,PG-13,Animation,2016,"July 9, 2016 (Japan)",6.8,1.3,6.8,21000,Takeshi Nozue,Aaron Paul,Japan,Square Visual Works Co. Ltd.,110
+Mr. Church,5,1544,PG-13,Comedy,2016,"November 11, 2016 (Netherlands)",7.6,2.4,7.7,27000,Bruce Beresford,Eddie Murphy,United States,Cinelou Films,104
+Hands of Stone,5,1682,R,Biography,2016,"August 26, 2016 (United States)",6.6,4.3,6.6,16000,Jonathan Jakubowicz,Edgar Ramírez,Panama,Fuego Films,111
+Ae Dil Hai Mushkil,5,1721,Not Rated,Drama,2016,"October 28, 2016 (United States)",5.8,5.4,5.8,22000,Karan Johar,Ranbir Kapoor,India,ADHM Films,158
+Denial,5,1777,PG-13,Biography,2016,"October 21, 2016 (United States)",6.5,8.3,6.7,20000,Mick Jackson,Rachel Weisz,United Kingdom,BBC Films,109
+Carrie Pilby,5,1784,Not Rated,Comedy,2016,"April 4, 2017 (United States)",6.6,5.9,6.7,9800,Susan Johnson,Bel Powley,United States,Braveart Films,98
+Ride Along 2,5,1923,PG-13,Action,2016,"January 15, 2016 (United States)",5.9,1.4,5.9,55000,Tim Story,Ice Cube,United States,Universal Pictures,102
+Pink,5,1961,Not Rated,Crime,2016,"September 16, 2016 (United States)",8.1,8.9,8.1,41000,Aniruddha Roy Chowdhury,Taapsee Pannu,India,NH Studioz,136
+Under the Shadow,5,1968,PG-13,Drama,2016,"October 7, 2016 (United States)",6.9,9.9,6.9,25000,Babak Anvari,Narges Rashidi,United Kingdom,Wigwam Films,84
+Rock Dog,5,1997,PG,Animation,2016,"February 24, 2017 (United States)",5.9,4.7,6,4900,Ash Brannon,Luke Wilson,China,Summit Premiere,90
+Race,5,2023,PG-13,Biography,2016,"February 19, 2016 (United States)",7.1,6,7.1,36000,Stephen Hopkins,Stephan James,Canada,Forecast Pictures,134
+A United Kingdom,5,2081,PG-13,Biography,2016,"February 10, 2017 (United States)",6.8,8.4,6.9,15000,Amma Asante,David Oyelowo,Czech Republic,Fox Searchlight Pictures,111
+Julieta,5,2273,R,Drama,2016,"December 21, 2016 (United States)",7.1,8.4,7.1,30000,Pedro Almodóvar,Emma Suárez,Spain,Echo Lake Entertainment,99
+American Pastoral,5,2294,R,Crime,2016,"October 21, 2016 (United States)",6.1,2.2,6.1,16000,Ewan McGregor,Ewan McGregor,Hong Kong,Lionsgate,108
+Buster's Mal Heart,5,2355,Unrated,Crime,2016,"May 23, 2017 (United States)",6.1,6.7,6.2,9400,Sarah Adina Smith,Rami Malek,United States,Everything Is Everything,96
+Complete Unknown,5,2424,R,Drama,2016,"August 26, 2016 (United States)",5.6,5.1,5.4,5800,Joshua Marston,Erin Darke,United States,Parts and Labor,91
+This Beautiful Fantastic,5,2502,PG,Comedy,2016,"February 19, 2018 (United Kingdom)",6.9,7.2,6.9,10000,Simon Aboud,Jessica Brown Findlay,United Kingdom,Ipso Facto Productions,92
+Incarnate,5,2683,PG-13,Horror,2016,"December 2, 2016 (United States)",5.2,1.7,5.3,12000,Brad Peyton,Aaron Eckhart,United States,IM Global,87
+The Innocents,5,2694,PG-13,Drama,2016,"February 10, 2016 (France)",7.2,9.4,7.3,10000,Anne Fontaine,Lou de Laâge,France,Mandarin Films,115
+Thor: Ragnarok,5,2706,PG-13,Action,2017,"November 3, 2017 (United States)",8,7,7.9,628000,Taika Waititi,Chris Hemsworth,United States,Walt Disney Pictures,130
+Darkest Hour,5,2762,PG-13,Biography,2017,"December 22, 2017 (United States)",6.2,7.5,7.4,179000,Joe Wright,Gary Oldman,United Kingdom,Focus Features,125
+The Hitman's Bodyguard,5,2770,R,Action,2017,"August 18, 2017 (United States)",7.3,7.8,6.9,203000,Patrick Hughes,Ryan Reynolds,United States,Summit Entertainment,118
+It,5,2918,R,Horror,2017,"September 8, 2017 (United States)",6.8,7.4,7.3,478000,Andy Muschietti,Bill Skarsgård,United States,New Line Cinema,135
+Spider-Man: Homecoming,5,2997,PG-13,Action,2017,"July 7, 2017 (United States)",6.3,7,7.4,540000,Jon Watts,Tom Holland,United States,Columbia Pictures,133
+Blade Runner 2049,5,3114,R,Action,2017,"October 6, 2017 (United States)",6.7,8,8,486000,Denis Villeneuve,Harrison Ford,United States,Alcon Entertainment,164
+Guardians of the Galaxy Vol. 2,5,3176,PG-13,Action,2017,"May 5, 2017 (United States)",6.5,7.7,7.6,596000,James Gunn,Chris Pratt,United States,Marvel Studios,136
+The Greatest Showman,5,3408,PG,Biography,2017,"December 20, 2017 (United States)",6.5,8.2,7.6,251000,Michael Gracey,Hugh Jackman,United States,Bona Film Group,105
+Jumanji: Welcome to the Jungle,5,3753,PG-13,Action,2017,"December 20, 2017 (United States)",7.5,8,6.9,336000,Jake Kasdan,Dwayne Johnson,United States,Columbia Pictures,119
+Baywatch,5,3897,R,Action,2017,"May 25, 2017 (United States)",6,7.6,5.5,170000,Seth Gordon,Dwayne Johnson,United Kingdom,Paramount Pictures,116
+Call Me by Your Name,5,3948,R,Drama,2017,"January 19, 2018 (United States)",6,7.6,7.9,228000,Luca Guadagnino,Armie Hammer,Italy,Frenesy Film Company,132
+Home Again,5,4014,PG-13,Comedy,2017,"September 8, 2017 (United States)",7.5,8.7,5.8,30000,Hallie Meyers-Shyer,Reese Witherspoon,United States,Black Bicycle Entertainment,97
+The Fate of the Furious,5,4018,PG-13,Action,2017,"April 14, 2017 (United States)",7,8,6.6,214000,F. Gary Gray,Vin Diesel,China,Universal Pictures,136
+Get Out,5,4022,R,Horror,2017,"February 24, 2017 (United States)",7.3,8.2,7.7,517000,Jordan Peele,Daniel Kaluuya,United States,Universal Pictures,104
+Dunkirk,5,4025,PG-13,Action,2017,"July 21, 2017 (United States)",6,7,7.8,582000,Christopher Nolan,Fionn Whitehead,United Kingdom,Syncopy,106
+Coco,5,4306,PG,Animation,2017,"November 22, 2017 (United States)",6.9,8,8.4,417000,Lee Unkrich,Anthony Gonzalez,United States,Walt Disney Pictures,105
+Baby Driver,5,4308,R,Action,2017,"June 28, 2017 (United States)",8,8.5,7.6,466000,Edgar Wright,Ansel Elgort,United Kingdom,TriStar Pictures,113
+The Boss Baby,5,4447,PG,Animation,2017,"March 31, 2017 (United States)",4,5.8,6.3,114000,Tom McGrath,Alec Baldwin,United States,DreamWorks Animation,97
+Logan,5,4718,R,Action,2017,"March 3, 2017 (United States)",6.3,7.5,8.1,674000,James Mangold,Hugh Jackman,United States,Twentieth Century Fox,137
+Wonder Woman,5,4963,PG-13,Action,2017,"June 2, 2017 (United States)",7,6.3,7.4,600000,Patty Jenkins,Gal Gadot,United States,Warner Bros.,141
+Alien: Covenant,5,4995,R,Horror,2017,"May 19, 2017 (United States)",4,3.5,6.4,261000,Ridley Scott,Michael Fassbender,United States,Twentieth Century Fox,122
+John Wick: Chapter 2,5,5266,R,Action,2017,"February 10, 2017 (United States)",7,6.3,7.5,385000,Chad Stahelski,Keanu Reeves,United States,Summit Entertainment,122
+Wonder,5,5299,PG,Drama,2017,"November 17, 2017 (United States)",7.8,7.1,8,150000,Stephen Chbosky,Jacob Tremblay,United States,Lionsgate,113
+Justice League,5,5349,PG-13,Action,2017,"November 17, 2017 (United States)",5.5,6.3,6.1,418000,Zack Snyder,Ben Affleck,United States,Warner Bros.,120
+Mother!,5,5464,R,Drama,2017,"September 15, 2017 (United States)",7,7.2,6.6,200000,Darren Aronofsky,Jennifer Lawrence,United States,Paramount Pictures,121
+Pirates of the Caribbean: Dead Men Tell No Tales,5,5669,PG-13,Action,2017,"May 26, 2017 (United States)",6.3,7.5,6.5,275000,Joachim Rønning,Johnny Depp,United States,Walt Disney Pictures,129
+The Shape of Water,5,5679,R,Adventure,2017,"December 22, 2017 (United States)",5,4,7.3,386000,Guillermo del Toro,Sally Hawkins,United States,Double Dare You (DDY),123
+Disobedience,5,5816,R,Drama,2017,"April 27, 2018 (United States)",4.9,6.5,6.6,27000,Sebastián Lelio,Rachel Weisz,Ireland,Braven Films,114
+Kong: Skull Island,5,5995,PG-13,Action,2017,"March 10, 2017 (United States)",7.1,7,6.6,293000,Jordan Vogt-Roberts,Tom Hiddleston,United States,Warner Bros.,118
+Beauty and the Beast,5,6218,PG,Family,2017,"March 17, 2017 (United States)",6.8,8,7.1,283000,Bill Condon,Emma Watson,United States,Mandeville Films,129
+Kingsman: The Golden Circle,5,6373,R,Action,2017,"September 22, 2017 (United States)",6,7,6.7,286000,Matthew Vaughn,Taron Egerton,United Kingdom,Twentieth Century Fox,141
+"Three Billboards Outside Ebbing, Missouri",5,6377,R,Comedy,2017,"December 1, 2017 (United States)",7,6.4,8.1,456000,Martin McDonagh,Frances McDormand,United Kingdom,Blueprint Pictures,115
+Star Wars: Episode VIII - The Last Jedi,5,6502,PG-13,Action,2017,"December 15, 2017 (United States)",6.8,7,7,581000,Rian Johnson,Daisy Ridley,United States,Walt Disney Pictures,152
+Beast,5,6711,R,Crime,2017,"May 11, 2018 (United States)",7.2,6,6.8,11000,Michael Pearce,Jessie Buckley,United Kingdom,Agile Films,107
+"I, Tonya",5,6942,R,Biography,2017,"January 19, 2018 (United States)",8,8.5,7.5,193000,Craig Gillespie,Margot Robbie,United States,AI-Film,119
+Atomic Blonde,5,8376,R,Action,2017,"July 28, 2017 (United States)",8,6.8,6.7,182000,David Leitch,Charlize Theron,United States,Focus Features,115
+Wind River,5,8464,R,Crime,2017,"August 18, 2017 (United States)",8,8.5,7.7,217000,Taylor Sheridan,Elizabeth Olsen,United Kingdom,Acacia Filmed Entertainment,107
+Murder on the Orient Express,5,8622,PG-13,Crime,2017,"November 10, 2017 (United States)",6.8,7,6.5,221000,Kenneth Branagh,Kenneth Branagh,Malta,Twentieth Century Fox,114
+King Arthur: Legend of the Sword,5,8636,PG-13,Action,2017,"May 12, 2017 (United States)",7,5.9,6.7,200000,Guy Ritchie,Charlie Hunnam,United Kingdom,Warner Bros.,126
+Lady Bird,5,8644,R,Comedy,2017,"December 1, 2017 (United States)",7.2,7.5,7.4,254000,Greta Gerwig,Saoirse Ronan,United States,IAC Films,94
+The Killing of a Sacred Deer,5,30707,R,Drama,2017,"November 3, 2017 (United States)",6.4,6,7,132000,Yorgos Lanthimos,Barry G. Bernson,Ireland,Element Pictures,121
+Logan Lucky,5,30749,PG-13,Comedy,2017,"August 18, 2017 (United States)",4.3,3.8,7,137000,Steven Soderbergh,Channing Tatum,United States,Fingerprint Releasing,118
+Fifty Shades Darker,5,30793,R,Drama,2017,"February 10, 2017 (United States)",7.8,8,4.6,95000,James Foley,Dakota Johnson,United States,Universal Pictures,118
+Happy Death Day,5,33166,PG-13,Comedy,2017,"October 13, 2017 (United States)",7.8,8.1,6.6,124000,Christopher Landon,Jessica Rothe,United States,Universal Pictures,96
+Transformers: The Last Knight,5,33679,PG-13,Action,2017,"June 21, 2017 (United States)",7,6.5,5.2,140000,Michael Bay,Mark Wahlberg,United States,Paramount Pictures,154
+Good Time,5,34162,R,Crime,2017,"August 25, 2017 (United States)",8,6.7,7.4,100000,Benny Safdie,Robert Pattinson,United States,Elara Pictures,102
+Ghost in the Shell,5,35836,PG-13,Action,2017,"March 31, 2017 (United States)",7,8,6.3,202000,Rupert Sanders,Scarlett Johansson,United States,Paramount Pictures,107
+Hampstead,5,40819,PG-13,Comedy,2017,"June 14, 2019 (United States)",7.8,7.6,6,5400,Joel Hopkins,Lesley Manville,United Kingdom,Ecosse Films,102
+Molly's Game,5,41566,R,Biography,2017,"January 5, 2018 (United States)",6.3,7,7.4,153000,Aaron Sorkin,Jessica Chastain,China,STX Entertainment,140
+Hostiles,5,41569,R,Drama,2017,"January 26, 2018 (United States)",6.9,7.4,7.2,76000,Scott Cooper,Scott Shepherd,United States,"Grisbi Productions, Le",134
+Valerian and the City of a Thousand Planets,6,48385,PG-13,Action,2017,"July 21, 2017 (United States)",6,5.8,6.5,168000,Luc Besson,Dane DeHaan,France,EuropaCorp,136
+The Dark Tower,6,111,PG-13,Action,2017,"August 4, 2017 (United States)",6.8,6.5,5.6,131000,Nikolaj Arcel,Idris Elba,United States,Columbia Pictures,95
+Pitch Perfect 3,6,158,PG-13,Comedy,2017,"December 22, 2017 (United States)",7,6.1,5.8,58000,Trish Sie,Anna Kendrick,United States,Brownstone Entertainment (II),93
+American Assassin,6,173,R,Action,2017,"September 15, 2017 (United States)",6.5,7.2,6.2,75000,Michael Cuesta,Dylan O'Brien,United States,CBS Films,111
+You Were Never Really Here,6,293,R,Crime,2017,"April 6, 2018 (United States)",6.5,7.1,6.8,109000,Lynne Ramsay,Joaquin Phoenix,United Kingdom,Why Not Productions,89
+The Florida Project,6,596,R,Drama,2017,"November 10, 2017 (United Kingdom)",7.4,8,7.6,101000,Sean Baker,Brooklynn Prince,United States,Cre Film,111
+Life,6,903,R,Horror,2017,"March 24, 2017 (United States)",7.2,6.8,6.6,213000,Daniel Espinosa,Jake Gyllenhaal,United Kingdom,Columbia Pictures,104
+The Death of Stalin,6,1204,R,Comedy,2017,"March 9, 2018 (United States)",6.5,8,7.2,92000,Armando Iannucci,Steve Buscemi,United Kingdom,Quad Productions,107
+Gifted,6,1250,PG-13,Drama,2017,"April 12, 2017 (United States)",6.8,7.3,7.6,105000,Marc Webb,Chris Evans,United States,Dayday Films,101
+Phantom Thread,6,1259,R,Drama,2017,"January 19, 2018 (United States)",6.5,7.7,7.5,118000,Paul Thomas Anderson,Vicky Krieps,United States,Focus Features,130
+The Upside,6,1276,PG-13,Comedy,2017,"January 11, 2019 (United States)",5.8,6.5,7,49000,Neil Burger,Kevin Hart,United States,Escape Artists,126
+Berlin Syndrome,6,1285,R,Drama,2017,"May 26, 2017 (United States)",7.1,8,6.3,23000,Cate Shortland,Teresa Palmer,Australia,Aquarius Films,116
+Annabelle: Creation,6,1358,R,Horror,2017,"August 11, 2017 (United States)",6.5,5.8,6.5,120000,David F. Sandberg,Anthony LaPaglia,United States,New Line Cinema,109
+American Made,6,1639,R,Action,2017,"September 29, 2017 (United States)",6.9,7.8,7.2,165000,Doug Liman,Tom Cruise,United States,Cross Creek Pictures,115
+War for the Planet of the Apes,6,1687,PG-13,Action,2017,"July 14, 2017 (United States)",6.9,7.5,7.4,235000,Matt Reeves,Andy Serkis,United States,Twentieth Century Fox,140
+Geostorm,6,1747,PG-13,Action,2017,"October 20, 2017 (United States)",6.4,7.3,5.3,99000,Dean Devlin,Gerard Butler,United States,Warner Bros.,109
+The Circle,6,1876,PG-13,Drama,2017,"April 28, 2017 (United States)",6.5,7,5.3,87000,James Ponsoldt,Emma Watson,United Arab Emirates,1978 Films,110
+Cars 3,6,1909,G,Animation,2017,"June 16, 2017 (United States)",7,8,6.7,82000,Brian Fee,Owen Wilson,United States,Pixar Animation Studios,102
+Rough Night,6,2001,R,Comedy,2017,"June 16, 2017 (United States)",5.8,4.5,5.2,49000,Lucia Aniello,Scarlett Johansson,United States,Paulilu Productions,101
+xXx: Return of Xander Cage,6,2019,PG-13,Action,2017,"January 20, 2017 (United States)",7,5.9,5.2,88000,D.J. Caruso,Vin Diesel,China,Paramount Pictures,107
+The Mummy,6,2072,PG-13,Action,2017,"June 9, 2017 (United States)",7.3,7.8,5.4,177000,Alex Kurtzman,Tom Cruise,United States,Universal Pictures,110
+CHIPS,6,2174,R,Action,2017,"March 24, 2017 (United States)",7.3,8,6,44000,Dax Shepard,Michael Peña,United States,Primate Pictures,100
+Ferdinand,6,2502,PG,Animation,2017,"December 15, 2017 (United States)",5.9,7,6.7,51000,Carlos Saldanha,John Cena,United States,Blue Sky Studios,108
+Only the Brave,6,2528,PG-13,Action,2017,"October 20, 2017 (United States)",6.7,7.4,7.6,62000,Joseph Kosinski,Josh Brolin,United States,Columbia Pictures,134
+The Beguiled,6,2529,R,Drama,2017,"June 30, 2017 (United States)",4.9,5.4,6.3,54000,Sofia Coppola,Nicole Kidman,United States,American Zoetrope,93
+The Glass Castle,6,2571,PG-13,Biography,2017,"August 11, 2017 (United States)",6.8,7.2,7.1,31000,Destin Daniel Cretton,Brie Larson,United States,Lionsgate,127
+The Lego Batman Movie,6,2657,PG,Animation,2017,"February 10, 2017 (United States)",6,4.9,7.3,135000,Chris McKay,Will Arnett,United States,Animal Logic,104
+Papillon,6,2692,R,Adventure,2017,"August 24, 2018 (United States)",6.4,5.4,7.2,63000,Michael Noer,Charlie Hunnam,United States,Czech Anglo Productions,133
+The Big Sick,6,2723,R,Comedy,2017,"July 14, 2017 (United States)",6.7,7.8,7.5,126000,Michael Showalter,Kumail Nanjiani,United States,Apatow Productions,120
+The Endless,6,2761,Not Rated,Drama,2017,"April 6, 2018 (United States)",8,9.1,6.5,37000,Justin Benson,Aaron Moorhead,United States,Snowfort Pictures,111
+Thoroughbreds,6,2890,R,Comedy,2017,"March 9, 2018 (United States)",7.5,8,6.7,38000,Cory Finley,Olivia Cooke,United States,B Story,92
+The Foreigner,6,3052,R,Action,2017,"October 13, 2017 (United States)",7.3,6.8,7,106000,Martin Campbell,Katie Leung,United Kingdom,STX Entertainment,113
+Revenge,6,3114,R,Action,2017,"May 11, 2018 (United States)",7.8,8.5,6.4,39000,Coralie Fargeat,Matilda Anna Ingrid Lutz,France,M.E.S. Productions,108
+Jigsaw,6,3300,R,Crime,2017,"October 27, 2017 (United States)",6.3,7.3,5.8,73000,Michael Spierig,Matt Passmore,Canada,Twisted Pictures,92
+The Snowman,6,3751,R,Crime,2017,"October 20, 2017 (United States)",4.5,7,5.1,60000,Tomas Alfredson,Michael Fassbender,United Kingdom,Universal Pictures,119
+The Disaster Artist,6,4641,R,Biography,2017,"December 8, 2017 (United States)",5.9,6.7,7.4,143000,James Franco,James Franco,United States,Good Universe,104
+47 Meters Down,6,4975,PG-13,Adventure,2017,"June 16, 2017 (United States)",2.9,2.1,5.7,51000,Johannes Roberts,Mandy Moore,United Kingdom,thefyzz,89
+The Post,6,5952,PG-13,Drama,2017,"January 12, 2018 (United States)",6,6.6,7.2,141000,Steven Spielberg,Meryl Streep,United States,Twentieth Century Fox,116
+"Everything, Everything",6,7090,PG-13,Drama,2017,"May 19, 2017 (United States)",6.9,7.5,6.4,35000,Stella Meghie,Amandla Stenberg,United States,Alloy Entertainment,96
+A Ghost Story,6,7153,R,Drama,2017,"July 27, 2017 (Australia)",6.7,7.2,6.9,64000,David Lowery,Casey Affleck,United States,Sailor Bear,92
+Sweet Virginia,6,7361,R,Action,2017,"November 30, 2017 (Australia)",5,4.5,6.2,9200,Jamie M. Dagg,Jon Bernthal,Canada,Automatik Entertainment,93
+Power Rangers,6,8368,PG-13,Action,2017,"March 24, 2017 (United States)",6.5,7,5.9,104000,Dean Israelite,Dacre Montgomery,United States,Lionsgate,124
+Lucky,6,8636,Not Rated,Comedy,2017,"September 29, 2017 (United States)",6,7,7.4,21000,John Carroll Lynch,Harry Dean Stanton,United States,Superlative Films,88
+All the Money in the World,6,8784,R,Biography,2017,"December 25, 2017 (United States)",4.3,2.8,6.8,79000,Ridley Scott,Michelle Williams,United States,Imperative Entertainment,132
+Suburbicon,7,8874,R,Comedy,2017,"October 27, 2017 (United States)",5.4,6.5,5.7,42000,George Clooney,Matt Damon,United Kingdom,Black Bear Pictures,105
+The Wife,7,1,R,Drama,2017,"September 28, 2018 (United Kingdom)",7.8,8,7.2,37000,Björn Runge,Glenn Close,United Kingdom,Silver Reel,99
+It Comes at Night,7,10,R,Horror,2017,"June 9, 2017 (United States)",5.7,6.7,6.2,87000,Trey Edward Shults,Joel Edgerton,United States,Animal Kingdom,91
+Despicable Me 3,7,21,PG,Animation,2017,"June 30, 2017 (United States)",7.1,7.6,6.3,119000,Kyle Balda,Steve Carell,United States,Illumination Entertainment,89
+Going in Style,7,31,PG-13,Comedy,2017,"April 7, 2017 (United States)",5.9,7,6.6,79000,Zach Braff,Michael Caine,United States,De Line Pictures,96
+Downsizing,7,34,R,Drama,2017,"December 22, 2017 (United States)",6.3,7.2,5.7,102000,Alexander Payne,Matt Damon,United States,Paramount Pictures,135
+Before I Fall,7,40,PG-13,Drama,2017,"March 3, 2017 (United States)",5.3,7,6.5,48000,Ry Russo-Young,Zoey Deutch,United States,Awesomeness Films,98
+Wonder Wheel,7,104,PG-13,Drama,2017,"December 15, 2017 (United States)",7,6.9,6.2,27000,Woody Allen,Justin Timberlake,United States,Amazon Studios,101
+The Emoji Movie,7,110,PG,Animation,2017,"July 28, 2017 (United States)",3.8,5,3.3,58000,Tony Leondis,T.J. Miller,United States,Columbia Pictures,86
+Ingrid Goes West,7,112,R,Comedy,2017,"August 25, 2017 (United States)",3,6,6.6,38000,Matt Spicer,Aubrey Plaza,United States,Star Thrower Entertainment,98
+Unforgettable,7,141,R,Drama,2017,"April 21, 2017 (United States)",8,8.9,5.1,15000,Denise Di Novi,Rosario Dawson,United States,DiNovi Pictures,100
+Paddington 2,7,151,PG,Animation,2017,"January 12, 2018 (United States)",7.3,6,7.8,66000,Paul King,Ben Whishaw,United Kingdom,StudioCanal,103
+Girls Trip,7,198,R,Adventure,2017,"July 21, 2017 (United States)",6,6.9,6.2,35000,Malcolm D. Lee,Regina Hall,United States,Perfect World Pictures,122
+Loving Vincent,7,207,PG-13,Animation,2017,"September 22, 2017 (United States)",7.5,7.7,7.8,53000,Dorota Kobiela,Douglas Booth,Poland,BreakThru Productions,94
+The Space Between Us,7,260,PG-13,Drama,2017,"February 3, 2017 (United States)",7.1,6.6,6.4,50000,Peter Chelsom,Gary Oldman,United States,Los Angeles Media Fund (LAMF),120
+Double Lover,7,272,Not Rated,Drama,2017,"May 26, 2017 (France)",6.5,5.8,6.2,11000,François Ozon,Marine Vacth,France,Mandarin Films,107
+The Mountain Between Us,7,316,PG-13,Action,2017,"October 6, 2017 (United States)",7.1,6.7,6.4,70000,Hany Abu-Assad,Kate Winslet,United States,Chernin Entertainment,112
+T2 Trainspotting,7,318,R,Drama,2017,"March 31, 2017 (United States)",4.5,6.7,7.2,117000,Danny Boyle,Ewan McGregor,United Kingdom,Artbees,117
+The Square,7,329,R,Comedy,2017,"August 25, 2017 (Sweden)",6.5,5.9,7.2,58000,Ruben Östlund,Claes Bang,Sweden,Plattform Produktion,151
+The Hero,7,333,R,Drama,2017,"June 9, 2017 (United States)",5.3,5,6.5,8600,Brett Haley,Sam Elliott,United States,Houston King Productions,96
+Battle of the Sexes,7,345,PG-13,Biography,2017,"September 29, 2017 (United States)",8,6.9,6.7,52000,Jonathan Dayton,Emma Stone,United Kingdom,Cloud Eight Films,121
+God's Own Country,7,355,Not Rated,Drama,2017,"August 24, 2017 (New Zealand)",6.8,6,7.7,27000,Francis Lee,Josh O'Connor,United Kingdom,British Film Institute (BFI),104
+The Book of Henry,7,356,PG-13,Crime,2017,"June 23, 2017 (United States)",8,7.5,6.6,25000,Colin Trevorrow,Naomi Watts,United States,Double Nickel Entertainment,105
+Borg vs. McEnroe,7,357,R,Biography,2017,"April 13, 2018 (United States)",6.5,6.9,6.9,29000,Janus Metz,Sverrir Gudnason,Sweden,SF Studios Production AB,107
+Daddy's Home 2,7,364,PG-13,Comedy,2017,"November 10, 2017 (United States)",7.5,7.9,6,65000,Sean Anders,Will Ferrell,United States,Paramount Pictures,100
+Mark Felt: The Man Who Brought Down the White House,7,367,PG-13,Biography,2017,"September 29, 2017 (United States)",7,7.9,6.4,12000,Peter Landesman,Liam Neeson,United States,Butler Pictures,103
+A Dog's Purpose,7,377,PG,Adventure,2017,"January 27, 2017 (United States)",7,7.8,7.2,68000,Lasse Hallström,Josh Gad,United States,Dreamworks Pictures,100
+Columbus,7,380,Not Rated,Drama,2017,"August 4, 2017 (United States)",7.6,7.7,7.2,15000,Kogonada,John Cho,United States,Depth of Field,100
+The Little Hours,7,480,R,Comedy,2017,"June 30, 2017 (United States)",7.5,7.6,5.8,21000,Jeff Baena,Alison Brie,United States,Destro Films,90
+The Shack,7,500,PG-13,Drama,2017,"March 3, 2017 (United States)",6.4,5.8,6.3,32000,Stuart Hazeldine,Sam Worthington,United States,Summit Entertainment,132
+Thelma,7,534,Not Rated,Drama,2017,"September 15, 2017 (Norway)",6.5,7.3,7,28000,Joachim Trier,Eili Harboe,Norway,Motlys,116
+Flatliners,7,539,PG-13,Drama,2017,"September 29, 2017 (United States)",7.5,7.9,5.2,44000,Niels Arden Oplev,Elliot Page,United States,Columbia Pictures,109
+Rings,7,541,PG-13,Drama,2017,"February 3, 2017 (United States)",7.1,7.4,4.5,39000,F. Javier Gutiérrez,Matilda Anna Ingrid Lutz,United States,Macari/Edelstein,102
+I Do... Until I Don't,7,551,R,Comedy,2017,"September 1, 2017 (United States)",7.9,6.9,4.1,2000,Lake Bell,Lake Bell,United States,Cold Iron Pictures,106
+Professor Marston & the Wonder Women,7,588,R,Biography,2017,"October 13, 2017 (United States)",6.5,7.3,7.1,24000,Angela Robinson,Luke Evans,United States,Strongman,108
+The Rider,7,589,R,Drama,2017,"April 13, 2018 (United States)",6.6,7.4,7.5,17000,Chloé Zhao,Brady Jandreau,United States,Caviar,104
+First Reformed,7,590,R,Drama,2017,"May 18, 2018 (United States)",7,8,7.1,51000,Paul Schrader,Ethan Hawke,United States,Killer Films,113
+The Lego Ninjago Movie,7,592,PG,Animation,2017,"September 22, 2017 (United States)",6.6,7.6,6,24000,Charlie Bean,Jackie Chan,United States,Animal Logic,101
+My Friend Dahmer,7,594,R,Biography,2017,"March 2, 2018 (France)",5.3,7.6,6.2,17000,Marc Meyers,Ross Lynch,United States,Ibid Filmworks,107
+The House,7,595,R,Comedy,2017,"June 30, 2017 (United States)",7.3,6.9,5.6,42000,Andrew Jay Cohen,Will Ferrell,United States,Gary Sanchez Productions,88
+Marrowbone,7,610,R,Drama,2017,"April 13, 2018 (United States)",8.4,5.5,6.7,28000,Sergio G. Sánchez,George MacKay,Spain,Lionsgate,110
+The Zookeeper's Wife,7,671,PG-13,Biography,2017,"April 7, 2017 (United States)",6.6,7.9,7,41000,Niki Caro,Jessica Chastain,Czech Republic,Scion Films,127
+Flower,7,708,R,Comedy,2017,"March 16, 2018 (United States)",7.6,5.8,6,7800,Max Winkler,Zoey Deutch,United States,Diablo Entertainment (II),90
+Song to Song,7,720,R,Drama,2017,"March 17, 2017 (United States)",6.7,6.6,5.7,20000,Terrence Malick,Ryan Gosling,United States,Buckeye Pictures,129
+Detroit,7,724,R,Crime,2017,"August 4, 2017 (United States)",7.2,7.7,7.3,50000,Kathryn Bigelow,John Boyega,United States,Annapurna Pictures,143
+Last Flag Flying,7,736,R,Comedy,2017,"November 3, 2017 (United States)",6.7,7.8,6.9,24000,Richard Linklater,Bryan Cranston,United States,Amazon Studios,125
+Megan Leavey,7,737,PG-13,Biography,2017,"June 9, 2017 (United States)",7.2,8.4,7.1,22000,Gabriela Cowperthwaite,Kate Mara,United States,LD Entertainment,116
+All Eyez on Me,7,745,R,Biography,2017,"June 16, 2017 (United States)",6.3,7.6,5.9,22000,Benny Boom,Demetrius Shipp Jr.,United States,Summit Entertainment,139
+Sleepless,7,780,R,Action,2017,"January 13, 2017 (United States)",6.1,6.3,5.6,31000,Baran bo Odar,Jamie Foxx,United States,Open Road Films (II),95
+The Captain,7,786,Not Rated,Drama,2017,"July 27, 2018 (United States)",6.6,8.1,7.4,15000,Robert Schwentke,Max Hubacher,Germany,Filmgalerie 451,118
+Tulip Fever,7,924,R,Drama,2017,"September 1, 2017 (United States)",6.6,7.4,6.2,19000,Justin Chadwick,Alicia Vikander,United Kingdom,Worldview Entertainment,105
+Stronger,7,1036,R,Biography,2017,"September 29, 2017 (United States)",6.1,6.4,6.9,42000,David Gordon Green,Jake Gyllenhaal,United States,Lionsgate,119
+Jeepers Creepers III,7,1073,Not Rated,Horror,2017,"November 2, 2017 (Mexico)",7.5,7.5,3.9,18000,Victor Salva,Stan Shaw,United States,Infinity Films,100
+My Cousin Rachel,7,1079,PG-13,Drama,2017,"June 9, 2017 (United States)",6.3,8,6,18000,Roger Michell,Rachel Weisz,United Kingdom,Fox Searchlight Pictures,106
+Baahubali 2: The Conclusion,7,1080,Not Rated,Action,2017,"April 28, 2017 (United States)",7,6.1,8.2,79000,S.S. Rajamouli,Prabhas,India,Arka Mediaworks,167
+Breathe,7,1097,PG-13,Biography,2017,"October 27, 2017 (United Kingdom)",6.6,6.6,7.2,20000,Andy Serkis,Andrew Garfield,United Kingdom,BBC Films,118
+The Only Living Boy in New York,7,1125,R,Drama,2017,"July 27, 2017 (Greece)",6.3,6.5,6.3,13000,Marc Webb,Callum Turner,United States,Amazon Studios,89
+A Taxi Driver,7,1129,Not Rated,Action,2017,"August 11, 2017 (United States)",6.1,7.3,7.9,19000,Hun Jang,Kang-ho Song,South Korea,The Lamp,137
+Brad's Status,7,1136,R,Comedy,2017,"September 15, 2017 (United States)",6.1,6.6,6.5,17000,Mike White,Ben Stiller,United States,Amazon Studios,102
+American Satan,7,1148,R,Drama,2017,"October 13, 2017 (United States)",6.3,6.6,5.7,3500,Ash Avildsen,Andy Biersack,United States,Sumerian Films,111
+Smurfs: The Lost Village,7,1196,PG,Animation,2017,"April 7, 2017 (United States)",7.3,7.1,6,19000,Kelly Asbury,Demi Lovato,United States,Walt Disney Animation Studios,90
+Gook,7,1197,Unrated,Drama,2017,"January 19, 2018 (Sweden)",7.1,6.7,7,2300,Justin Chon,Simone Baker,United States,Datari Turner Productions,94
+Wonderstruck,7,1198,PG,Adventure,2017,"October 20, 2017 (United States)",6.1,8.1,6.2,9800,Todd Haynes,Oakes Fegley,United States,Amazon Studios,116
+In the Fade,7,1210,R,Crime,2017,"December 27, 2017 (United States)",6.9,7,7.1,30000,Fatih Akin,Numan Acar,Germany,Warner Bros.,106
+Snatched,7,1220,R,Action,2017,"May 12, 2017 (United States)",7.4,6.8,4.5,34000,Jonathan Levine,Amy Schumer,United States,Chernin Entertainment,90
+"Roman J. Israel, Esq.",7,1223,PG-13,Crime,2017,"November 22, 2017 (United States)",5.5,7.5,6.5,35000,Dan Gilroy,Denzel Washington,Canada,BRON Studios,122
+Victoria & Abdul,7,1225,PG-13,Biography,2017,"October 6, 2017 (United States)",6.9,6.7,6.8,33000,Stephen Frears,Judi Dench,United Kingdom,BBC Films,111
+Fist Fight,7,1231,R,Comedy,2017,"February 17, 2017 (United States)",7.5,7.7,5.6,41000,Richie Keen,Ice Cube,United States,New Line Cinema,91
+The Wall,7,1240,R,Action,2017,"May 18, 2017 (Greece)",7.6,6.5,6.2,25000,Doug Liman,Aaron Taylor-Johnson,United States,Amazon Studios,88
+How to Be a Latin Lover,7,1242,PG-13,Comedy,2017,"April 28, 2017 (United States)",6.9,6.7,6,15000,Ken Marino,Eugenio Derbez,Mexico,Pantelion Films,115
+The Leisure Seeker,7,1270,R,Adventure,2017,"January 3, 2018 (France)",6.2,7.4,6.7,7800,Paolo Virzì,Helen Mirren,Italy,Indiana Production,112
+Same Kind of Different as Me,7,1275,PG-13,Biography,2017,"October 20, 2017 (United States)",5.2,7,6.6,6900,Michael Carney,Greg Kinnear,United States,Disruption Entertainment,119
+My Little Pony: The Movie,7,1278,PG,Animation,2017,"October 6, 2017 (United States)",6.5,7,6.1,6200,Jayson Thiessen,Emily Blunt,United States,Lionsgate,99
+Goodbye Christopher Robin,7,1287,PG,Biography,2017,"September 29, 2017 (United Kingdom)",5.8,4.6,7.1,26000,Simon Curtis,Domhnall Gleeson,United Kingdom,DJ Films,107
+Table 19,7,1288,PG-13,Comedy,2017,"March 3, 2017 (United States)",6.5,6.6,5.8,27000,Jeffrey Blitz,Anna Kendrick,United States,3311 Productions,87
+Father Figures,7,1291,R,Comedy,2017,"December 22, 2017 (United States)",6.6,5.2,5.5,19000,Lawrence Sher,Owen Wilson,United States,Alcon Entertainment,113
+Kidnap,7,1298,R,Action,2017,"August 4, 2017 (United States)",7.9,7.4,5.9,35000,Luis Prieto,Halle Berry,United States,Di Bonaventura Pictures,95
+Diary of a Wimpy Kid: The Long Haul,7,1302,PG,Animation,2017,"May 19, 2017 (United States)",7.4,6.3,4.3,7700,David Bowers,Jason Drucker,United States,Twentieth Century Fox,91
+Ghost Stories,7,1307,Not Rated,Drama,2017,"April 20, 2018 (United States)",7,6,6.4,32000,Jeremy Dyson,Samuel Bottomley,United Kingdom,Warp Films,98
+Churchill,7,1353,PG,Biography,2017,"June 2, 2017 (United States)",7.3,7.4,6.1,12000,Jonathan Teplitzky,Brian Cox,United Kingdom,Salon Pictures,105
+Beach Rats,7,1371,R,Drama,2017,"November 22, 2017 (Sweden)",6,7.2,6.4,13000,Eliza Hittman,Harris Dickinson,United States,Cinereach,98
+The Bookshop,7,1372,PG,Drama,2017,"August 24, 2018 (United States)",5.5,6.5,6.5,14000,Isabel Coixet,Emily Mortimer,United Kingdom,Diagonal TV,113
+Mary Shelley,7,1373,PG-13,Biography,2017,"July 5, 2018 (Australia)",6.1,5.6,6.5,14000,Haifaa Al-Mansour,Elle Fanning,United Kingdom,BFI Film Fund,120
+A Bad Moms Christmas,7,1374,R,Comedy,2017,"November 1, 2017 (United States)",3.2,5.8,5.6,46000,Jon Lucas,Mila Kunis,United States,Huayi Brothers Media,104
+Loveless,7,1375,R,Drama,2017,"June 1, 2017 (Russia)",7,6.2,7.6,31000,Andrey Zvyagintsev,Maryana Spivak,Russia,Non-Stop Productions,127
+Captain Underpants: The First Epic Movie,7,1376,PG,Animation,2017,"June 2, 2017 (United States)",6.8,6.8,6.2,26000,David Soren,Kevin Hart,United States,DreamWorks Animation,89
+Beatriz at Dinner,7,1394,R,Comedy,2017,"June 9, 2017 (United States)",6.1,7.6,6,9300,Miguel Arteta,Salma Hayek,United States,BRON Studios,82
+Wish Upon,7,1405,PG-13,Drama,2017,"July 14, 2017 (United States)",5.3,6.6,5,19000,John R. Leonetti,Joey King,United States,Broad Green Pictures,90
+Super Dark Times,8,1408,Not Rated,Crime,2017,"September 29, 2017 (United States)",6.9,7.2,6.6,21000,Kevin Phillips,Owen Campbell,United States,Ways & Means,103
+Blade of the Immortal,8,32,R,Action,2017,"November 3, 2017 (United States)",5.6,7.6,6.8,16000,Takashi Miike,Takuya Kimura,Japan,Warner Bros.,140
+Journey's End,8,45,R,Drama,2017,"February 2, 2018 (United Kingdom)",3.8,7.5,6.7,8500,Saul Dibb,Paul Bettany,United Kingdom,Fluidity Films,107
+Godard Mon Amour,8,47,R,Biography,2017,"September 13, 2017 (France)",5.7,7,6.6,4900,Michel Hazanavicius,Louis Garrel,France,Les Compagnons du Cinéma,107
+Marshall,8,50,PG-13,Biography,2017,"October 13, 2017 (United States)",7.6,6.3,7.3,22000,Reginald Hudlin,Chadwick Boseman,United States,Chestnut Ridge Productions,118
+BPM (Beats Per Minute),8,110,Not Rated,Drama,2017,"October 20, 2017 (United States)",5.2,6.5,7.4,14000,Robin Campillo,Nahuel Pérez Biscayart,France,Les Films de Pierre,143
+Lean on Pete,8,260,R,Adventure,2017,"April 6, 2018 (United States)",6.7,7.2,7.2,12000,Andrew Haigh,Charlie Plummer,United Kingdom,Film4,121
+Memoir of a Murderer,8,282,Not Rated,Action,2017,"September 8, 2017 (United States)",6.9,7.4,7.2,7300,Shin-yeon Won,Sol Kyung-gu,South Korea,Green Fish Pictures,118
+Take Me,8,296,TV-MA,Comedy,2017,"May 5, 2017 (United States)",6,5.3,6.1,4900,Pat Healy,Pat Healy,United States,Duplass Brothers Productions,83
+The Last Movie Star,8,318,R,Drama,2017,"March 30, 2018 (United States)",6.7,5.3,7,3700,Adam Rifkin,Burt Reynolds,United States,Broken Twig Productions Inc.,94
+On Chesil Beach,8,356,R,Drama,2017,"May 18, 2018 (United States)",6.8,6.7,6.3,10000,Dominic Cooke,Billy Howle,United Kingdom,BBC Films,110
+Breath,8,457,TV-MA,Adventure,2017,"May 3, 2018 (Australia)",4.2,5.2,6.7,3000,Simon Baker,Samson Coulter,Australia,Gran Via Productions,115
+The Villainess,8,520,Not Rated,Action,2017,"June 8, 2017 (South Korea)",4,5.2,6.7,13000,Byung-gil Jung,Kim Ok-bin,South Korea,Apeitda,124
+How to Talk to Girls at Parties,8,524,R,Comedy,2017,"May 25, 2018 (United States)",8.2,5.4,5.7,10000,John Cameron Mitchell,Elle Fanning,United Kingdom,Cross City Sales,102
+Amityville: The Awakening,8,527,PG-13,Horror,2017,"October 12, 2017 (United States)",7.6,6,4.8,13000,Franck Khalfoun,Jennifer Jason Leigh,United States,Dimension Films,87
+The Resurrection of Gavin Stone,8,543,PG,Comedy,2017,"January 20, 2017 (United States)",5.6,6.7,6.3,2000,Dallas Jenkins,Brett Dalton,United States,Blumhouse Productions,91
+The Bye Bye Man,8,589,PG-13,Drama,2017,"January 13, 2017 (United States)",7,7.6,4.2,23000,Stacy Title,Douglas Smith,United States,Huayi Brothers Media,96
+Along With the Gods: The Two Worlds,8,593,Not Rated,Action,2017,"December 20, 2017 (South Korea)",6.1,6.3,7.3,13000,Yong-hwa Kim,Ha Jung-woo,South Korea,Dexter Studios,139
+A Quiet Place,8,628,PG-13,Drama,2018,"April 6, 2018 (United States)",7.2,7.1,7.5,456000,John Krasinski,Emily Blunt,United States,Paramount Pictures,90
+Avengers: Infinity War,8,805,PG-13,Action,2018,"April 27, 2018 (United States)",4.7,7.3,8.4,897000,Anthony Russo,Robert Downey Jr.,United States,Marvel Studios,149
+Deadpool 2,8,858,R,Action,2018,"May 18, 2018 (United States)",8,8.5,7.7,505000,David Leitch,Ryan Reynolds,Canada,Twentieth Century Fox,119
+Bohemian Rhapsody,8,1196,PG-13,Biography,2018,"November 2, 2018 (United States)",7.5,6,7.9,476000,Bryan Singer,Rami Malek,United Kingdom,Twentieth Century Fox,134
+Black Panther,8,1197,PG-13,Action,2018,"February 16, 2018 (United States)",7.8,9.6,7.3,661000,Ryan Coogler,Chadwick Boseman,United States,Marvel Studios,134
+Hereditary,8,1198,R,Drama,2018,"June 8, 2018 (United States)",7.6,9,7.3,259000,Ari Aster,Toni Collette,United States,PalmStar Media,127
+A Simple Favor,8,1210,R,Comedy,2018,"September 14, 2018 (United States)",7,8.4,6.8,136000,Paul Feig,Anna Kendrick,Canada,BRON Studios,117
+Aquaman,8,1219,PG-13,Action,2018,"December 21, 2018 (United States)",7.2,8.9,6.9,404000,James Wan,Jason Momoa,United States,Warner Bros.,143
+Ready Player One,8,1225,PG-13,Action,2018,"March 29, 2018 (United States)",7.2,8,7.4,388000,Steven Spielberg,Tye Sheridan,United States,Warner Bros.,140
+Spider-Man: Into the Spider-Verse,8,1258,PG,Animation,2018,"December 14, 2018 (United States)",8.8,9.7,8.4,411000,Bob Persichetti,Shameik Moore,United States,Sony Pictures Entertainment (SPE),117
+Mission: Impossible - Fallout,8,1259,PG-13,Action,2018,"July 27, 2018 (United States)",7.8,8.7,7.7,303000,Christopher McQuarrie,Tom Cruise,United States,Paramount Pictures,147
+Venom,8,1265,PG-13,Action,2018,"October 5, 2018 (United States)",6.5,8.5,6.7,387000,Ruben Fleischer,Tom Hardy,China,Avi Arad Productions,112
+Green Book,8,1270,PG-13,Biography,2018,"November 16, 2018 (United States)",8.7,9,8.2,414000,Peter Farrelly,Viggo Mortensen,United States,Participant,130
+Crazy Rich Asians,8,1291,PG-13,Comedy,2018,"August 15, 2018 (United States)",7,8,6.9,152000,Jon M. Chu,Constance Wu,United States,Warner Bros.,120
+Ant-Man and the Wasp,8,1302,PG-13,Action,2018,"July 6, 2018 (United States)",6.8,8.2,7,333000,Peyton Reed,Paul Rudd,United States,Marvel Studios,118
+BlacKkKlansman,8,1358,R,Biography,2018,"August 10, 2018 (United States)",7.3,8.3,7.5,236000,Spike Lee,John David Washington,United States,Focus Features,135
+The Predator,8,1387,R,Action,2018,"September 14, 2018 (United States)",5,7,5.3,120000,Shane Black,Boyd Holbrook,United States,Twentieth Century Fox,107
+White Boy Rick,8,1393,R,Crime,2018,"September 14, 2018 (United States)",6.2,7.5,6.5,33000,Yann Demange,Matthew McConaughey,United States,LBI Productions,111
+Solo: A Star Wars Story,8,1500,PG-13,Action,2018,"May 25, 2018 (United States)",7.3,7.8,6.9,306000,Ron Howard,Alden Ehrenreich,United States,Lucasfilm,135
+Midnight Sun,8,1552,PG-13,Drama,2018,"March 23, 2018 (United States)",6.8,7.4,6.6,26000,Scott Speer,Bella Thorne,United States,Boies / Schiller Film Group,91
+Under the Silver Lake,8,1617,R,Crime,2018,"April 19, 2019 (United States)",6.3,7,6.5,36000,David Robert Mitchell,Andrew Garfield,United States,Vendian Entertainment,139
+Den of Thieves,8,1625,R,Action,2018,"January 19, 2018 (United States)",6.7,8,7,99000,Christian Gudegast,Gerard Butler,United States,STX Films,140
+Annihilation,8,1674,R,Adventure,2018,"February 23, 2018 (United States)",6.5,7.7,6.8,292000,Alex Garland,Natalie Portman,United Kingdom,Paramount Pictures,115
+Red Sparrow,8,1704,R,Action,2018,"March 2, 2018 (United States)",6.5,8.2,6.6,173000,Francis Lawrence,Jennifer Lawrence,United States,Chernin Entertainment,140
+A Star Is Born,8,1754,R,Drama,2018,"October 5, 2018 (United States)",7.5,8,7.6,350000,Bradley Cooper,Lady Gaga,United States,Warner Bros. Pictures,136
+Mamma Mia! Here We Go Again,8,1777,PG-13,Comedy,2018,"July 20, 2018 (United States)",6,7.6,6.6,85000,Ol Parker,Lily James,United Kingdom,Universal Pictures,114
+Death Wish,8,1876,R,Action,2018,"March 2, 2018 (United States)",6,7.6,6.3,67000,Eli Roth,Bruce Willis,United States,Cave 76,107
+Instant Family,8,1961,PG-13,Comedy,2018,"November 16, 2018 (United States)",7.5,8.7,7.3,97000,Sean Anders,Mark Wahlberg,United States,Closest to the Hole Productions,118
+Jurassic World: Fallen Kingdom,8,2028,PG-13,Action,2018,"June 22, 2018 (United States)",7,8,6.2,277000,J.A. Bayona,Chris Pratt,United States,Universal Pictures,128
+Eighth Grade,8,2100,R,Comedy,2018,"August 3, 2018 (United States)",7.3,8.2,7.4,68000,Bo Burnham,Elsie Fisher,United States,A24,93
+Ocean's Eight,8,2139,PG-13,Action,2018,"June 8, 2018 (United States)",6,7,6.3,197000,Gary Ross,Sandra Bullock,United States,Warner Bros.,110
+Suspiria,8,2194,R,Fantasy,2018,"November 2, 2018 (United States)",6.9,8,6.7,66000,Luca Guadagnino,Chloë Grace Moretz,Italy,Frenesy Film Company,152
+The Favourite,8,2302,R,Biography,2018,"December 21, 2018 (United States)",8,8.5,7.5,181000,Yorgos Lanthimos,Olivia Colman,Ireland,Fox Searchlight Pictures,119
+The Meg,8,2324,PG-13,Action,2018,"August 10, 2018 (United States)",4,5.8,5.6,157000,Jon Turteltaub,Jason Statham,United States,Di Bonaventura Pictures,113
+Mandy,8,2329,Not Rated,Horror,2018,"September 14, 2018 (United States)",6.3,7.5,6.5,68000,Panos Cosmatos,Nicolas Cage,United Kingdom,SpectreVision,121
+Sicario: Day of the Soldado,8,2353,R,Action,2018,"June 29, 2018 (United States)",7,6.3,7.1,132000,Stefano Sollima,Benicio Del Toro,United States,Columbia Pictures,122
+Fifty Shades Freed,8,2423,R,Drama,2018,"February 9, 2018 (United States)",4,3.5,4.5,59000,James Foley,Dakota Johnson,United States,Perfect World Pictures,105
+Halloween,8,2502,R,Crime,2018,"October 19, 2018 (United States)",7,6.3,6.5,126000,David Gordon Green,Jamie Lee Curtis,United States,Blumhouse Productions,106
+Incredibles 2,8,2571,PG,Animation,2018,"June 15, 2018 (United States)",7.8,7.1,7.6,263000,Brad Bird,Craig T. Nelson,United States,Walt Disney Pictures,118
+The First Purge,8,2716,R,Action,2018,"July 4, 2018 (United States)",5.5,6.3,5.2,58000,Gerard McMurray,Y'lan Noel,United States,Blumhouse Productions,97
+The House That Jack Built,8,2762,R,Crime,2018,"October 17, 2018 (Belgium)",7,7.2,6.8,64000,Lars von Trier,Matt Dillon,Denmark,Zentropa Entertainments,152
+Ophelia,8,2770,PG-13,Drama,2018,"June 28, 2019 (United States)",6.3,7.5,6.6,8500,Claire McCarthy,Daisy Ridley,United Kingdom,Covert Media,106
+The Nun,8,2791,R,Horror,2018,"September 7, 2018 (United States)",5,4,5.3,127000,Corin Hardy,Demián Bichir,United States,Atomic Monster,96
+Charlie Says,8,2797,R,Biography,2018,"May 17, 2019 (United States)",4.9,6.5,5.9,3500,Mary Harron,Hannah Murray,United States,Epic Level Entertainment,110
+The Equalizer 2,8,2804,R,Action,2018,"July 20, 2018 (United States)",7.1,7,6.7,141000,Antoine Fuqua,Denzel Washington,United States,Columbia Pictures,121
+Climax,8,2841,R,Drama,2018,"September 19, 2018 (France)",6.8,8,7,57000,Gaspar Noé,Sofia Boutella,France,Rectangle Productions,97
+The Commuter,8,2858,PG-13,Action,2018,"January 12, 2018 (United States)",6,7,6.3,107000,Jaume Collet-Serra,Liam Neeson,United States,StudioCanal,104
+Game Night,8,2918,R,Action,2018,"February 23, 2018 (United States)",7,6.4,6.9,215000,John Francis Daley,Jason Bateman,United States,Access Entertainment,100
+Red Joan,8,2959,R,Biography,2018,"April 19, 2019 (United Kingdom)",6.8,7,6.4,11000,Trevor Nunn,Judi Dench,United Kingdom,Trademark Films,101
+Tag,8,3147,R,Action,2018,"June 15, 2018 (United States)",7.2,6,6.5,121000,Jeff Tomsic,Jeremy Renner,United States,Broken Road Productions,100
+The Hate U Give,8,3578,PG-13,Crime,2018,"October 19, 2018 (United States)",8,8.5,7.5,33000,George Tillman Jr.,Amandla Stenberg,United States,Fox 2000 Pictures,133
+Bad Times at the El Royale,8,3916,R,Crime,2018,"October 12, 2018 (United States)",8,6.8,7.1,135000,Drew Goddard,Jeff Bridges,United States,Goddard Textiles,141
+Isle of Dogs,8,3948,PG-13,Animation,2018,"April 13, 2018 (United States)",8,8.5,7.9,147000,Wes Anderson,Bryan Cranston,Germany,Indian Paintbrush,101
+Fantastic Beasts: The Crimes of Grindelwald,8,3996,PG-13,Adventure,2018,"November 16, 2018 (United States)",6.8,7,6.5,234000,David Yates,Eddie Redmayne,United Kingdom,Heyday Films,134
+Hunter Killer,8,4011,R,Action,2018,"October 26, 2018 (United States)",7,5.9,6.6,58000,Donovan Marsh,Gerard Butler,United Kingdom,Hunter Killer Productions,121
+The Mule,8,4019,R,Crime,2018,"December 14, 2018 (United States)",7.2,7.5,7,121000,Clint Eastwood,Clint Eastwood,United States,Warner Bros.,116
+The Clovehitch Killer,8,4034,Unrated,Crime,2018,"November 16, 2018 (United States)",6.4,6,6.6,21000,Duncan Skiles,Dylan McDermott,United States,End Cue,109
+Robin Hood,8,4226,PG-13,Action,2018,"November 21, 2018 (United States)",4.3,3.8,5.3,68000,Otto Bathurst,Taron Egerton,United States,Summit Entertainment,116
+Beautiful Boy,8,4262,R,Biography,2018,"October 25, 2018 (Israel)",7.8,8,7.3,59000,Felix van Groeningen,Steve Carell,United States,Amazon Studios,120
+Capharnaüm,8,4448,R,Drama,2018,"September 20, 2018 (Lebanon)",7.8,8.1,8.4,71000,Nadine Labaki,Zain Al Rafeea,Lebanon,Mooz Films,126
+Adrift,8,4886,PG-13,Action,2018,"June 1, 2018 (United States)",7,6.5,6.6,50000,Baltasar Kormákur,Shailene Woodley,Hong Kong,Huayi Brothers,96
+"Love, Simon",8,4896,PG-13,Comedy,2018,"March 16, 2018 (United States)",8,6.7,7.6,104000,Greg Berlanti,Nick Robinson,United States,Fox 2000 Pictures,110
+Mary Poppins Returns,8,4963,PG,Comedy,2018,"December 19, 2018 (United States)",7,8,6.7,80000,Rob Marshall,Emily Blunt,United States,Lucamar Productions,130
+Leave No Trace,8,4973,PG,Adventure,2018,"June 29, 2018 (United Kingdom)",7.8,7.6,7.2,54000,Debra Granik,Thomasin McKenzie,United States,BRON Studios,109
+Bumblebee,8,4993,PG-13,Action,2018,"December 21, 2018 (United States)",6.3,7,6.7,147000,Travis Knight,Hailee Steinfeld,China,Hasbro,114
+Vice,8,4995,R,Biography,2018,"December 25, 2018 (United States)",6.9,7.4,7.2,130000,Adam McKay,Christian Bale,United States,Annapurna Pictures,132
+Hotel Transylvania 3: Summer Vacation,8,5064,PG,Animation,2018,"July 13, 2018 (United States)",6,5.8,6.3,62000,Genndy Tartakovsky,Adam Sandler,United States,Sony Pictures Animation,97
+Mile 22,8,5378,R,Action,2018,"August 17, 2018 (United States)",6.8,6.5,6.1,72000,Peter Berg,Mark Wahlberg,United States,STX Entertainment,94
+Peter Rabbit,8,5445,PG,Animation,2018,"February 9, 2018 (United States)",7,6.1,6.6,38000,Will Gluck,James Corden,United States,Columbia Pictures,95
+12 Strong,8,5464,R,Action,2018,"January 19, 2018 (United States)",6.5,7.2,6.6,72000,Nicolai Fuglsig,Chris Hemsworth,United States,Alcon Entertainment,130
+The Spy Who Dumped Me,8,5630,R,Action,2018,"August 3, 2018 (United States)",6.5,7.1,6.1,72000,Susanna Fogel,Justin Theroux,Canada,BRON Studios,117
+Upgrade,8,5650,R,Action,2018,"June 1, 2018 (United States)",7.4,8,7.5,168000,Leigh Whannell,Logan Marshall-Green,United States,Goalpost Pictures,100
+Mary Queen of Scots,8,5669,R,Biography,2018,"December 21, 2018 (United States)",7.2,6.8,6.3,45000,Josie Rourke,Saoirse Ronan,United Kingdom,Focus Features,124
+Ralph Breaks the Internet,8,5952,PG,Animation,2018,"November 21, 2018 (United States)",6.5,8,7,140000,Phil Johnston,John C. Reilly,United States,Walt Disney Animation Studios,112
+Overlord,8,5989,R,Action,2018,"November 9, 2018 (United States)",6.8,7.3,6.6,91000,Julius Avery,Jovan Adepo,United States,Bad Robot,110
+Tomb Raider,8,6377,PG-13,Action,2018,"March 16, 2018 (United States)",6.5,7.7,6.3,197000,Roar Uthaug,Alicia Vikander,United Kingdom,Warner Bros.,119
+The Girl in the Spider's Web,8,6378,R,Action,2018,"November 9, 2018 (United States)",5.8,6.5,6.1,44000,Fede Alvarez,Claire Foy,Germany,Columbia Pictures,115
+Mortal Engines,8,6870,PG-13,Action,2018,"December 14, 2018 (United States)",7.1,8,6.1,115000,Christian Rivers,Hera Hilmar,United States,Media Rights Capital (MRC),128
+Maze Runner: The Death Cure,8,6874,PG-13,Action,2018,"January 26, 2018 (United States)",6.5,5.8,6.3,121000,Wes Ball,Dylan O'Brien,United States,Gotham Group,143
+First Man,8,6879,PG-13,Biography,2018,"October 12, 2018 (United States)",6.9,7.8,7.3,176000,Damien Chazelle,Ryan Gosling,United States,Universal Pictures,141
+Creed II,8,7143,PG-13,Drama,2018,"November 21, 2018 (United States)",6.9,7.5,7.1,111000,Steven Caple Jr.,Michael B. Jordan,United States,Metro-Goldwyn-Mayer (MGM),130
+Rampage,8,7153,PG-13,Action,2018,"April 13, 2018 (United States)",6.4,7.3,6.1,151000,Brad Peyton,Dwayne Johnson,United States,New Line Cinema,107
+Everybody Knows,8,7361,R,Crime,2018,"February 8, 2019 (United States)",6.5,7,6.9,31000,Asghar Farhadi,Penélope Cruz,Spain,Memento Films Production,133
+Mid90s,8,7438,R,Comedy,2018,"October 26, 2018 (United States)",7,8,7.4,54000,Jonah Hill,Sunny Suljic,United States,A24,85
+Replicas,8,8533,PG-13,Drama,2018,"January 11, 2019 (United States)",5.8,4.5,5.5,34000,Jeffrey Nachmanoff,Keanu Reeves,United Kingdom,Company Films,107
+Widows,8,8784,R,Crime,2018,"November 16, 2018 (United States)",7,5.9,6.9,91000,Steve McQueen,Viola Davis,United Kingdom,New Regency Productions,129
+Burning,8,8873,Not Rated,Drama,2018,"May 17, 2018 (South Korea)",7.3,7.8,7.5,54000,Chang-dong Lee,Yoo Ah-in,South Korea,Pine House Film,148
+Searching,8,8874,PG-13,Drama,2018,"August 31, 2018 (United States)",7.3,8,7.6,148000,Aneesh Chaganty,John Cho,United States,Screen Gems,102
+Life Itself,8,32587,R,Drama,2018,"September 21, 2018 (United States)",5.9,7,6.9,19000,Dan Fogelman,Oscar Isaac,United States,FilmNation Entertainment,117
+Blockers,8,33166,R,Comedy,2018,"April 6, 2018 (United States)",6.7,7.4,6.2,74000,Kay Cannon,Leslie Mann,United States,Point Grey Pictures,102
+The Strangers: Prey at Night,8,33493,R,Horror,2018,"March 9, 2018 (United States)",4.9,5.4,5.2,28000,Johannes Roberts,Christina Hendricks,United States,Aviron Pictures,85
+Peppermint,8,33794,R,Action,2018,"September 7, 2018 (United States)",6.8,7.2,6.5,60000,Pierre Morel,Jennifer Garner,Hong Kong,STX Films,101
+High Life,8,34162,R,Adventure,2018,"April 12, 2019 (United States)",6,4.9,5.8,31000,Claire Denis,Robert Pattinson,France,Alcatraz Films,113
+Every Day,8,40583,PG-13,Drama,2018,"February 23, 2018 (United States)",6.4,5.4,6.5,20000,Michael Sucsy,Angourie Rice,Canada,Likely Story,97
+Operation Finale,8,40819,PG-13,Biography,2018,"August 29, 2018 (United States)",6.7,7.8,6.6,36000,Chris Weitz,Oscar Isaac,United States,Metro-Goldwyn-Mayer (MGM),122
+Shoplifters,8,42007,R,Crime,2018,"November 23, 2018 (United States)",8,9.1,7.9,68000,Hirokazu Koreeda,Lily Franky,Japan,AOI Promotion,121
+Blindspotting,8,43556,R,Comedy,2018,"July 27, 2018 (United States)",7.5,8,7.4,29000,Carlos López Estrada,Daveed Diggs,United States,Snoot Entertainment,95
+The Sisters Brothers,8,43871,R,Crime,2018,"October 19, 2018 (United States)",7.3,6.8,7,58000,Jacques Audiard,John C. Reilly,France,Why Not Productions,122
+The Nightingale,9,44004,R,Adventure,2018,"August 29, 2019 (Australia)",7.8,8.5,7.3,24000,Jennifer Kent,Aisling Franciosi,Australia,Causeway Films,136
+Greta,9,1,R,Drama,2018,"March 1, 2019 (United States)",6.3,7.3,6,30000,Neil Jordan,Isabelle Huppert,Ireland,Sidney Kimmel Entertainment,98
+I Feel Pretty,9,17,PG-13,Comedy,2018,"April 20, 2018 (United States)",4.5,7,5.5,51000,Abby Kohn,Amy Schumer,China,Huayi Brothers Pictures,110
+Hotel Artemis,9,26,R,Action,2018,"June 8, 2018 (United States)",5.9,6.7,6.1,49000,Drew Pearce,Jodie Foster,United Kingdom,The Ink Factory,94
+Slender Man,9,36,PG-13,Horror,2018,"August 10, 2018 (United States)",2.9,2.1,3.2,30000,Sylvain White,Joey King,United States,Screen Gems,93
+Trial by Fire,9,47,R,Biography,2018,"May 17, 2019 (United States)",6,6.6,7,7200,Edward Zwick,Jack O'Connell,United States,Flashlight Films,127
+American Woman,9,318,R,Drama,2018,"June 14, 2019 (United States)",6.9,7.5,6.8,5800,Jake Scott,Sienna Miller,United Kingdom,Romulus Entertainment,111
+Book Club,9,497,PG-13,Comedy,2018,"May 18, 2018 (United States)",6.7,7.2,6.1,26000,Bill Holderman,Diane Keaton,United States,Apartment Story,104
+Slaughterhouse Rulez,9,515,R,Action,2018,"May 17, 2019 (United States)",5,4.5,5.3,13000,Crispian Mills,Jassa Ahluwalia,United Kingdom,Catalyst Global Media,104
+Sorry to Bother You,9,527,R,Comedy,2018,"July 13, 2018 (United States)",6.5,7,6.9,69000,Boots Riley,LaKeith Stanfield,United States,Cinereach,112
+Pacific Rim: Uprising,9,534,PG-13,Action,2018,"March 23, 2018 (United States)",6,7,5.6,110000,Steven S. DeKnight,John Boyega,United Kingdom,Legendary Entertainment,111
+Holmes & Watson,9,593,PG-13,Comedy,2018,"December 25, 2018 (United States)",4.3,2.8,3.8,33000,Etan Cohen,Will Ferrell,United States,Columbia Pictures,90
+The Darkest Minds,9,608,PG-13,Action,2018,"August 3, 2018 (United States)",5.4,6.5,5.7,30000,Jennifer Yuh Nelson,Amandla Stenberg,United States,21 Laps Entertainment,104
+Cold War,9,733,R,Drama,2018,"June 8, 2018 (Poland)",7.8,8,7.6,52000,Pawel Pawlikowski,Joanna Kulig,Poland,Opus Film,89
+Truth or Dare,9,1059,PG-13,Horror,2018,"April 13, 2018 (United States)",5.7,6.7,5.2,50000,Jeff Wadlow,Lucy Hale,United States,Blumhouse Productions,100
+Alpha,9,1177,PG-13,Action,2018,"August 17, 2018 (United States)",7.1,7.6,6.7,58000,Albert Hughes,Kodi Smit-McPhee,United States,Studio 8,96
+At Eternity's Gate,9,1357,PG-13,Biography,2018,"February 15, 2019 (France)",5.9,7,6.9,31000,Julian Schnabel,Willem Dafoe,Ireland,CBS Films,111
+Overboard,9,1358,PG-13,Comedy,2018,"May 4, 2018 (United States)",6.3,7.2,6,36000,Rob Greenberg,Eugenio Derbez,United States,Metro-Goldwyn-Mayer (MGM),112
+Summer of 84,9,1411,Not Rated,Drama,2018,"August 10, 2018 (United States)",5.3,7,6.7,36000,François Simard,Graham Verchere,Canada,Brightlight Pictures,105
+Arctic,9,1541,PG-13,Adventure,2018,"January 31, 2019 (Denmark)",7,6.9,6.8,46000,Joe Penna,Mads Mikkelsen,Iceland,Armory Films,98
+A Wrinkle in Time,9,1584,PG,Adventure,2018,"March 9, 2018 (United States)",3.8,5,4.2,42000,Ava DuVernay,Storm Reid,United States,Legend3D,109
+London Fields,9,1680,R,Crime,2018,"October 26, 2018 (United States)",3,6,4,7800,Mathew Cullen,Amber Heard,United Kingdom,Muse Productions,118
+Andhadhun,9,1682,Not Rated,Crime,2018,"October 5, 2018 (United States)",8,8.9,8.2,79000,Sriram Raghavan,Ayushmann Khurrana,India,Matchbox Pictures,139
+Hotel Mumbai,9,1704,R,Action,2018,"March 29, 2019 (United States)",7.3,6,7.6,57000,Anthony Maras,Dev Patel,Australia,India Take One Productions,123
+Life of the Party,9,1721,PG-13,Comedy,2018,"May 11, 2018 (United States)",6,6.9,5.6,35000,Ben Falcone,Melissa McCarthy,United States,New Line Cinema,105
+American Animals,9,1784,R,Biography,2018,"August 14, 2018 (United States)",6.8,7.4,7,41000,Bart Layton,Spencer Reinhard,United Kingdom,Film4,116
+The House with a Clock in Its Walls,9,2028,PG,Comedy,2018,"September 21, 2018 (United States)",7.2,6.7,6.1,48000,Eli Roth,Jack Black,United States,DreamWorks,105
+Brian Banks,9,2125,PG-13,Biography,2018,"August 9, 2019 (United States)",7.5,8.5,7.2,5400,Tom Shadyac,Aldis Hodge,United States,ShivHans Pictures,99
+Gotti,9,2140,R,Biography,2018,"June 14, 2018 (Hungary)",5.4,2.7,4.7,14000,Kevin Connolly,John Travolta,Canada,Emmett/Furla/Oasis Films (EFO Films),112
+Christopher Robin,9,2249,PG,Adventure,2018,"August 3, 2018 (United States)",7.2,8,7.3,72000,Marc Forster,Ewan McGregor,United Kingdom,2DUX²,104
+Destroyer,9,2268,R,Action,2018,"December 27, 2018 (Israel)",6.8,7.4,6.2,27000,Karyn Kusama,Nicole Kidman,United States,Annapurna Pictures,121
+We Have Always Lived in the Castle,9,2273,Not Rated,Drama,2018,"May 17, 2019 (United States)",6,7,5.6,6100,Stacie Passon,Taissa Farmiga,United States,Mighty Engine,90
+The Miseducation of Cameron Post,9,2278,Not Rated,Drama,2018,"September 7, 2018 (United Kingdom)",6.4,7.5,6.6,20000,Desiree Akhavan,Chloë Grace Moretz,United States,Beachside Films,91
+Insidious: The Last Key,9,2291,PG-13,Horror,2018,"January 5, 2018 (United States)",4.9,6.3,5.7,55000,Adam Robitel,Lin Shaye,United States,Blumhouse Productions,103
+Mary Magdalene,9,2294,R,Biography,2018,"March 16, 2018 (United Kingdom)",5.7,6.4,5.9,9300,Garth Davis,Rooney Mara,United Kingdom,See-Saw Films,120
+"Don't Worry, He Won't Get Far on Foot",9,2302,R,Biography,2018,"April 4, 2018 (France)",7.2,5,6.9,24000,Gus Van Sant,Joaquin Phoenix,France,Amazon Studios,114
+Can You Ever Forgive Me?,9,2391,R,Biography,2018,"November 2, 2018 (South Africa)",7.3,8,7.1,49000,Marielle Heller,Melissa McCarthy,United States,Archer Gray,106
+Unsane,9,2396,R,Drama,2018,"March 23, 2018 (United States)",6,7.1,6.4,42000,Steven Soderbergh,Claire Foy,United States,Fingerprint Releasing,98
+Boy Erased,9,2427,R,Biography,2018,"November 8, 2018 (Australia)",6.2,8,6.9,35000,Joel Edgerton,Lucas Hedges,Australia,Focus Features,115
+Johnny English Strikes Again,9,2490,PG,Action,2018,"October 26, 2018 (United States)",6.8,5.2,6.2,67000,David Kerr,Rowan Atkinson,United Kingdom,Universal Pictures,89
+Skyscraper,9,2501,PG-13,Action,2018,"July 13, 2018 (United States)",6.3,4.8,5.8,111000,Rawson Marshall Thurber,Dwayne Johnson,United States,Legendary Entertainment,102
+Wildlife,9,2539,PG-13,Drama,2018,"January 1, 2019 (United States)",6.9,7,6.8,26000,Paul Dano,Ed Oxenbould,United States,June Pictures,105
+The Old Man & the Gun,9,2571,PG-13,Biography,2018,"October 19, 2018 (United States)",6.3,7.5,6.7,42000,David Lowery,Robert Redford,United States,Fox Searchlight Pictures,93
+Forever My Girl,9,2628,PG,Comedy,2018,"January 19, 2018 (United States)",6.8,7.2,6.7,16000,Bethany Ashton Wolf,Alex Roe,United States,LD Entertainment,108
+On the Basis of Sex,9,2762,PG-13,Biography,2018,"January 11, 2019 (United States)",6.9,8.3,7.1,31000,Mimi Leder,Felicity Jones,United States,Alibaba Pictures,120
+I Want to Eat Your Pancreas,10,2857,Not Rated,Animation,2018,"September 1, 2018 (Japan)",8.9,9.1,8,11000,Shin'ichirô Ushijima,Mahiro Takasugi,Japan,ABC Animation,109
+The Man Who Killed Don Quixote,10,50,Not Rated,Adventure,2018,"May 19, 2018 (France)",7,6,6.4,17000,Terry Gilliam,José Luis Ferrer,Spain,Alacran Pictures,132
+The Catcher Was a Spy,10,152,R,Biography,2018,"June 22, 2018 (United States)",5.8,7,6.2,8500,Ben Lewin,Paul Rudd,United States,PalmStar Media,94
+Welcome to Marwen,10,318,PG-13,Biography,2018,"December 21, 2018 (United States)",7,6.4,6.2,21000,Robert Zemeckis,Steve Carell,Japan,Universal Pictures,116
+Bad Samaritan,10,344,R,Crime,2018,"May 4, 2018 (United States)",6.8,7.5,6.5,21000,Dean Devlin,David Tennant,United States,Electric Entertainment,110
+Border,10,345,R,Crime,2018,"October 26, 2018 (United States)",7.3,6.8,7,26000,Ali Abbasi,Eva Melander,Sweden,Meta Film Stockholm,110
+Gringo,10,592,R,Action,2018,"March 9, 2018 (United States)",7,6.8,6.1,28000,Nash Edgerton,Joel Edgerton,Australia,Amazon Studios,111
+Assassination Nation,10,735,R,Action,2018,"September 21, 2018 (United States)",6.4,7.2,6,17000,Sam Levinson,Odessa Young,United States,BRON Studios,108
+Unfriended: Dark Web,10,1036,R,Horror,2018,"July 20, 2018 (United States)",4.9,5.9,6,29000,Stephen Susco,Colin Woodell,United States,Bazelevs Production,92
+The Nutcracker and the Four Realms,10,1089,PG,Adventure,2018,"November 2, 2018 (United States)",4.8,6.2,5.6,30000,Lasse Hallström,Mackenzie Foy,United States,Walt Disney Pictures,99
+Little Italy,10,1101,R,Comedy,2018,"September 21, 2018 (United States)",6,4.9,5.7,13000,Donald Petrie,Emma Roberts,Canada,Firsttake Entertainment,102
+The Happytime Murders,10,1127,R,Action,2018,"August 24, 2018 (United States)",4.8,7.2,5.4,26000,Brian Henson,Melissa McCarthy,United States,STX Entertainment,91
+Tully,10,1196,R,Comedy,2018,"May 4, 2018 (United States)",6.9,8.3,7,55000,Jason Reitman,Charlize Theron,United States,BRON Studios,95
+Night School,10,1197,PG-13,Comedy,2018,"September 28, 2018 (United States)",6.7,5.2,5.8,38000,Malcolm D. Lee,Kevin Hart,United States,Hartbeat Productions,111
+Lords of Chaos,10,1198,R,Biography,2018,"February 8, 2019 (United States)",5.9,7.6,6.6,13000,Jonas Åkerlund,Rory Culkin,United Kingdom,Proton Cinema,118
+Smallfoot,10,1200,PG,Animation,2018,"September 28, 2018 (United States)",6.3,6.9,6.6,36000,Karey Kirkpatrick,Channing Tatum,United States,Warner Animation Group,96
+Hell Fest,10,1210,R,Horror,2018,"September 28, 2018 (United States)",5.7,7,5.5,15000,Gregory Plotkin,Cynthea Mercado,United States,CBS Films,89
+A Private War,10,1220,R,Biography,2018,"November 16, 2018 (United States)",7.8,6.2,6.7,18000,Matthew Heineman,Rosamund Pike,United Kingdom,Acacia Filmed Entertainment,110
+Second Act,10,1240,PG-13,Comedy,2018,"December 21, 2018 (United States)",4.3,4.9,5.8,24000,Peter Segal,Jennifer Lopez,United States,Huayi Brothers,103
+Uncle Drew,10,1291,PG-13,Comedy,2018,"June 29, 2018 (United States)",7.1,6.3,5.8,13000,Charles Stone III,Kyrie Irving,United States,Summit Entertainment,103
+Wild Rose,10,1358,R,Comedy,2018,"June 21, 2019 (United States)",8.2,7.8,7.2,12000,Tom Harper,Jessie Buckley,United Kingdom,BFI Film Fund,101
+The Possession of Hannah Grace,10,1423,R,Horror,2018,"November 30, 2018 (United States)",6.7,4.8,5.2,20000,Diederik Van Rooijen,Shay Mitchell,United States,Screen Gems,86
+If Beale Street Could Talk,10,1459,R,Drama,2018,"December 25, 2018 (United States)",6.9,7.2,7.1,45000,Barry Jenkins,KiKi Layne,United States,Annapurna Pictures,119
+Out of Blue,10,1499,Unrated,Crime,2018,"March 22, 2019 (United States)",3.8,6.1,4.8,1700,Carol Morley,Mamie Gummer,United Kingdom,Cannon and Morley Productions,109
+The Grinch,10,1611,PG,Animation,2018,"November 9, 2018 (United States)",7.1,6.7,6.3,58000,Yarrow Cheney,Benedict Cumberbatch,France,Universal Pictures,85
+Colette,10,1690,R,Biography,2018,"December 20, 2018 (Netherlands)",6.4,7,6.7,21000,Wash Westmoreland,Keira Knightley,United Kingdom,Number 9 Films,111
+Winchester,10,1704,PG-13,Biography,2018,"February 2, 2018 (United States)",4.7,5.8,5.5,32000,Michael Spierig,Helen Mirren,Australia,CBS Films,99
+The 15:17 to Paris,10,1719,PG-13,Biography,2018,"February 9, 2018 (United States)",4.9,5.7,5.3,30000,Clint Eastwood,Alek Skarlatos,United States,Warner Bros.,94
+Action Point,10,1887,R,Comedy,2018,"June 1, 2018 (United States)",6.3,4.8,5.1,11000,Tim Kirkby,Johnny Knoxville,United States,Paramount Pictures,85
+"Juliet, Naked",10,1923,R,Comedy,2018,"August 17, 2018 (United States)",5.7,4.5,6.6,21000,Jesse Peretz,Chris O'Dowd,United States,Los Angeles Media Fund (LAMF),97
+The Guilty,10,2108,R,Crime,2018,"October 19, 2018 (United States)",8.2,7.8,7.5,48000,Gustav Möller,Jakob Cedergren,Denmark,Nordisk Film / SPRING,85
+Never Look Away,10,2344,R,Biography,2018,"October 3, 2018 (Germany)",5.7,6.8,7.7,18000,Florian Henckel von Donnersmarck,Tom Schilling,Germany,Pergamon Film,189
+Vox Lux,10,2406,R,Drama,2018,"December 20, 2018 (Kuwait)",7.2,6,5.8,17000,Brady Corbet,Natalie Portman,United States,Bold Films,114
+The Wind,10,2410,R,Horror,2018,"April 5, 2019 (United States)",6.7,4.5,5.6,6800,Emma Tammi,Caitlin Gerard,United States,Soapbox Films,88
+Super Troopers 2,10,2539,R,Comedy,2018,"April 20, 2018 (United States)",6.9,7.2,6.1,25000,Jay Chandrasekhar,Jay Chandrasekhar,United States,Votiv Films,99
+Summer '03,10,2571,Not Rated,Comedy,2018,"December 20, 2018 (Russia)",4.6,4.8,5.5,2900,Becca Gleason,Joey King,United States,Big Cat Productions,95
+An Acceptable Loss,10,2826,R,Drama,2018,"January 18, 2019 (United States)",6.8,6,5.4,1200,Joe Chappelle,Tika Sumpter,United States,CorradoMooncoin,102
+The Death & Life of John F. Donovan,10,2827,R,Drama,2018,"December 13, 2019 (United States)",4.8,5.4,6.2,5900,Xavier Dolan,Kit Harington,Canada,Lyla Films,123
+Duck Butter,10,2840,Not Rated,Comedy,2018,"April 27, 2018 (United States)",7.1,6.2,5.3,3500,Miguel Arteta,Alia Shawkat,United States,Duplass Brothers Productions,93
+The Little Mermaid,10,2841,PG,Adventure,2018,"August 17, 2018 (United States)",3.8,4.1,4.3,8500,Blake Harris,William Moseley,United States,Conglomerate Media,85
+Padmaavat,10,2881,Not Rated,Drama,2018,"January 25, 2018 (India)",7.5,8,7,29000,Sanjay Leela Bhansali,Deepika Padukone,India,Bhansali Productions,164
+Stan & Ollie,10,2890,PG,Biography,2018,"January 11, 2019 (United Kingdom)",7.5,6.9,7.2,34000,Jon S. Baird,Steve Coogan,United Kingdom,Entertainment One,98
+SuperFly,10,2907,R,Action,2018,"June 13, 2018 (United States)",3.9,4.9,5.2,6500,Director X.,Trevor Jackson,United States,Columbia Pictures,116
+Early Man,10,2926,PG,Animation,2018,"February 16, 2018 (United States)",5.9,6.8,6.1,21000,Nick Park,Eddie Redmayne,France,Summit Entertainment,89
+I Can Only Imagine,10,2995,PG,Biography,2018,"March 16, 2018 (United States)",7.9,6.9,7.3,15000,Andrew Erwin,J. Michael Finley,United States,Kevin Downes Productions,110
+The Hummingbird Project,10,3005,R,Drama,2018,"March 22, 2019 (Canada)",5.2,6.3,6.2,13000,Kim Nguyen,Jesse Eisenberg,Canada,Item 7,111
+Dragon Ball Super: Broly,11,3019,PG,Animation,2018,"January 16, 2019 (United States)",7.9,8,7.8,24000,Tatsuya Nagamine,Masako Nozawa,Japan,Toei Company,100
+Gloria Bell,11,50,R,Comedy,2018,"March 22, 2019 (United States)",4.1,5.3,6.3,10000,Sebastián Lelio,Julianne Moore,Chile,Fabula,102
+Kin,11,70,PG-13,Action,2018,"August 31, 2018 (United States)",6.7,7.8,5.8,16000,Jonathan Baker,Myles Truitt,United States,Summit Entertainment,102
+Aniara,11,126,R,Drama,2018,"May 17, 2019 (United States)",6.7,4.5,6.3,7400,Pella Kagerman,Emelie Garbers,Sweden,Film Capital Stockholm,106
+Becoming Astrid,11,169,Not Rated,Biography,2018,"September 14, 2018 (Sweden)",7.6,8.1,7.1,5300,Pernille Fischer Christensen,Alba August,Sweden,Nordisk Film Production Sverige AB,123
+Goosebumps 2: Haunted Halloween,11,296,PG,Animation,2018,"October 12, 2018 (United States)",6.5,4.5,5.6,19000,Ari Sandel,Wendi McLendon-Covey,United States,Sony Pictures Animation,90
+The Quake,11,778,PG-13,Action,2018,"December 14, 2018 (United States)",5.4,6.1,6.2,11000,John Andreas Andersen,Kristoffer Joner,Norway,Fantefilm,106
+Nobody's Fool,11,785,R,Comedy,2018,"November 2, 2018 (United States)",5.2,5,4.9,7000,Tyler Perry,Tiffany Haddish,United States,BET Films,110
+7 Days in Entebbe,11,923,PG-13,Action,2018,"March 16, 2018 (United States)",4.9,6.9,5.8,15000,José Padilha,Batsheva Dance Company,United Kingdom,Participant,107
+My Hero Academia: Two Heroes,11,1027,PG-13,Animation,2018,"September 25, 2018 (United States)",6.4,8.2,7.5,8000,Kenji Nagasaki,Daiki Yamashita,Japan,Bones,96
+An Interview with God,11,1201,Unrated,Drama,2018,"August 21, 2018 (United States)",5.4,6.7,5.8,3400,Perry Lang,David Strathairn,United States,Astute Films,97
